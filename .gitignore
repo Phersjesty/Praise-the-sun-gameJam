@@ -73,3 +73,4 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Pixel2dGame/Saved/Logs/Pixel2dGame.log
