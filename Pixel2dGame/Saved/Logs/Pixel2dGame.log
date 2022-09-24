@@ -1133,3 +1133,295 @@ Recommended: 516.25
 [2022.09.24-03.08.02:896][697]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/2dlevel981EC0FE4417CA7A20ED8391DF6E81F2.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Maps/2dlevel.umap'
 [2022.09.24-03.08.02:922][697]AssetCheck: New page: Asset Save: 2dlevel
 [2022.09.24-03.08.02:922][697]LogContentValidation: Display: Validating World /Game/Maps/2dlevel.2dlevel
+[2022.09.24-03.08.25:829][940]LogEditorViewport: Clicking Background
+[2022.09.24-03.08.32:170][673]LogEditorViewport: Clicking Background
+[2022.09.24-03.09.22:906][539]LogSlate: Window 'Pixel2dGame - Unreal Editor' being destroyed
+[2022.09.24-03.09.22:989][539]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu
+[2022.09.24-03.09.22:989][539]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.File
+[2022.09.24-03.09.22:989][539]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Window
+[2022.09.24-03.09.22:989][539]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Edit
+[2022.09.24-03.09.22:989][539]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Help
+[2022.09.24-03.09.22:989][539]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Tools
+[2022.09.24-03.09.22:989][539]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build
+[2022.09.24-03.09.22:989][539]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingQuality
+[2022.09.24-03.09.22:989][539]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo.LightingDensity
+[2022.09.24-03.09.22:989][539]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo.LightingResolution
+[2022.09.24-03.09.22:990][539]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo
+[2022.09.24-03.09.22:990][539]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Select
+[2022.09.24-03.09.22:990][539]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.Cinematics
+[2022.09.24-03.09.22:990][539]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.LevelToolbarQuickSettings
+[2022.09.24-03.09.22:990][539]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.OpenBlueprint
+[2022.09.24-03.09.22:990][539]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.AddQuickMenu
+[2022.09.24-03.09.22:990][539]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.ModesToolBar
+[2022.09.24-03.09.22:990][539]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.AssetsToolBar
+[2022.09.24-03.09.22:990][539]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.PlayToolBar
+[2022.09.24-03.09.22:990][539]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.User
+[2022.09.24-03.09.22:991][539]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.SettingsToolbar
+[2022.09.24-03.09.23:002][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.24-03.09.23:008][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.24-03.09.23:013][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.24-03.09.23:019][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.24-03.09.23:034][539]LogToolMenus: Warning: Menu already registered : LevelEditor.StatusBar.ToolBar.CompileComboButton
+[2022.09.24-03.09.23:048][539]LogViewport: Scene viewport resized to 1526x942, mode Windowed.
+[2022.09.24-03.09.52:439][881]Cmd: EDIT COPY
+[2022.09.24-03.09.57:360][450]LogEditorViewport: Clicking Background
+[2022.09.24-03.10.06:803][559]LogSlate: Window 'Pixel2dGame - Unreal Editor' being destroyed
+[2022.09.24-03.10.06:897][559]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu
+[2022.09.24-03.10.06:897][559]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.File
+[2022.09.24-03.10.06:897][559]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Window
+[2022.09.24-03.10.06:897][559]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Edit
+[2022.09.24-03.10.06:897][559]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Help
+[2022.09.24-03.10.06:898][559]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Tools
+[2022.09.24-03.10.06:898][559]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build
+[2022.09.24-03.10.06:898][559]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingQuality
+[2022.09.24-03.10.06:898][559]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo.LightingDensity
+[2022.09.24-03.10.06:898][559]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo.LightingResolution
+[2022.09.24-03.10.06:898][559]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo
+[2022.09.24-03.10.06:899][559]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Select
+[2022.09.24-03.10.06:899][559]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.Cinematics
+[2022.09.24-03.10.06:899][559]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.LevelToolbarQuickSettings
+[2022.09.24-03.10.06:899][559]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.OpenBlueprint
+[2022.09.24-03.10.06:899][559]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.AddQuickMenu
+[2022.09.24-03.10.06:899][559]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.ModesToolBar
+[2022.09.24-03.10.06:899][559]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.AssetsToolBar
+[2022.09.24-03.10.06:899][559]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.PlayToolBar
+[2022.09.24-03.10.06:899][559]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.User
+[2022.09.24-03.10.06:899][559]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.SettingsToolbar
+[2022.09.24-03.10.06:905][559]LogSlate: The tab "LevelEditorToolBar" attempted to spawn in layout 'LevelEditor_Layout_v1.8' but failed for some reason. It will not be displayed.
+[2022.09.24-03.10.06:912][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.24-03.10.06:918][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.24-03.10.06:924][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.24-03.10.06:929][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.24-03.10.06:948][559]LogToolMenus: Warning: Menu already registered : LevelEditor.StatusBar.ToolBar.CompileComboButton
+[2022.09.24-03.10.06:969][559]LogViewport: Scene viewport resized to 1206x611, mode Windowed.
+[2022.09.24-03.10.16:964][709]LogViewport: Scene viewport resized to 1526x611, mode Windowed.
+[2022.09.24-03.10.21:354][214]LogSlate: Window 'Pixel2dGame - Unreal Editor' being destroyed
+[2022.09.24-03.10.21:443][214]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu
+[2022.09.24-03.10.21:443][214]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.File
+[2022.09.24-03.10.21:443][214]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Window
+[2022.09.24-03.10.21:443][214]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Edit
+[2022.09.24-03.10.21:443][214]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Help
+[2022.09.24-03.10.21:443][214]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Tools
+[2022.09.24-03.10.21:443][214]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build
+[2022.09.24-03.10.21:443][214]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingQuality
+[2022.09.24-03.10.21:443][214]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo.LightingDensity
+[2022.09.24-03.10.21:444][214]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo.LightingResolution
+[2022.09.24-03.10.21:444][214]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo
+[2022.09.24-03.10.21:444][214]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Select
+[2022.09.24-03.10.21:444][214]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.Cinematics
+[2022.09.24-03.10.21:444][214]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.LevelToolbarQuickSettings
+[2022.09.24-03.10.21:444][214]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.OpenBlueprint
+[2022.09.24-03.10.21:444][214]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.AddQuickMenu
+[2022.09.24-03.10.21:445][214]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.ModesToolBar
+[2022.09.24-03.10.21:445][214]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.AssetsToolBar
+[2022.09.24-03.10.21:445][214]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.PlayToolBar
+[2022.09.24-03.10.21:445][214]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.User
+[2022.09.24-03.10.21:445][214]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.SettingsToolbar
+[2022.09.24-03.10.21:456][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.24-03.10.21:461][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.24-03.10.21:467][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.24-03.10.21:473][214]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.24-03.10.21:487][214]LogToolMenus: Warning: Menu already registered : LevelEditor.StatusBar.ToolBar.CompileComboButton
+[2022.09.24-03.10.21:503][214]LogViewport: Scene viewport resized to 1526x942, mode Windowed.
+[2022.09.24-03.10.23:068][371]LogEditorViewport: Clicking Background
+[2022.09.24-03.10.50:939][629]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-956GTUH
+[2022.09.24-03.10.50:939][629]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="C:/Users/Malik/Documents/Unreal Projects/Pixel2dGame/Pixel2dGame.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Malik/Documents/Unreal Projects/Pixel2dGame/Intermediate/TurnkeyReport_1.log" -log="C:/Users/Malik/Documents/Unreal Projects/Pixel2dGame/Intermediate/TurnkeyLog_1.log" -project="C:/Users/Malik/Documents/Unreal Projects/Pixel2dGame/Pixel2dGame.uproject"  -Device=Win64@DESKTOP-956GTUH'
+[2022.09.24-03.10.50:939][629]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Malik/Documents/Unreal Projects/Pixel2dGame/Pixel2dGame.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Malik/Documents/Unreal Projects/Pixel2dGame/Intermediate/TurnkeyReport_1.log" -log="C:/Users/Malik/Documents/Unreal Projects/Pixel2dGame/Intermediate/TurnkeyLog_1.log" -project="C:/Users/Malik/Documents/Unreal Projects/Pixel2dGame/Pixel2dGame.uproject"  -Device=Win64@DESKTOP-956GTUH" -nocompile ]
+[2022.09.24-03.10.51:631][711]LogTurnkeySupport: Completed device detection: Code = 0
+[2022.09.24-03.10.51:631][711]LogTurnkeySupport: Turnkey Device: Win64@DESKTOP-956GTUH: (Name=DESKTOP-956GTUH, Status=Valid, Installed=10.0.19044.0, MinAllowed=10.0.18362.0, MaxAllowed=, Flags="Device_InstallSoftwareValid")
+[2022.09.24-03.11.29:141][910]LogViewport: Scene viewport resized to 760x469, mode Windowed.
+[2022.09.24-03.11.29:185][910]LogViewport: Scene viewport resized to 760x469, mode Windowed.
+[2022.09.24-03.11.29:213][910]LogViewport: Scene viewport resized to 760x469, mode Windowed.
+[2022.09.24-03.11.29:239][910]LogViewport: Scene viewport resized to 1423x879, mode Windowed.
+[2022.09.24-03.11.29:263][911]LogViewport: Scene viewport resized to 792x488, mode Windowed.
+[2022.09.24-03.11.29:287][912]LogViewport: Scene viewport resized to 769x474, mode Windowed.
+[2022.09.24-03.11.29:326][913]LogViewport: Scene viewport resized to 760x469, mode Windowed.
+[2022.09.24-03.11.30:603][ 60]LogViewport: Scene viewport resized to 955x589, mode Windowed.
+[2022.09.24-03.11.30:631][ 61]LogViewport: Scene viewport resized to 1240x765, mode Windowed.
+[2022.09.24-03.11.30:657][ 62]LogViewport: Scene viewport resized to 1398x863, mode Windowed.
+[2022.09.24-03.11.30:682][ 63]LogViewport: Scene viewport resized to 1484x917, mode Windowed.
+[2022.09.24-03.11.30:713][ 64]LogViewport: Scene viewport resized to 1521x940, mode Windowed.
+[2022.09.24-03.11.30:747][ 65]LogViewport: Scene viewport resized to 1526x942, mode Windowed.
+[2022.09.24-03.11.31:387][138]LogViewport: Scene viewport resized to 1306x806, mode Windowed.
+[2022.09.24-03.11.31:416][139]LogViewport: Scene viewport resized to 1078x665, mode Windowed.
+[2022.09.24-03.11.31:443][140]LogViewport: Scene viewport resized to 936x578, mode Windowed.
+[2022.09.24-03.11.31:469][141]LogViewport: Scene viewport resized to 848x523, mode Windowed.
+[2022.09.24-03.11.31:496][142]LogViewport: Scene viewport resized to 794x489, mode Windowed.
+[2022.09.24-03.11.31:523][143]LogViewport: Scene viewport resized to 768x473, mode Windowed.
+[2022.09.24-03.11.31:547][144]LogViewport: Scene viewport resized to 761x469, mode Windowed.
+[2022.09.24-03.11.31:572][145]LogViewport: Scene viewport resized to 760x469, mode Windowed.
+[2022.09.24-03.11.32:407][240]LogEditorViewport: Clicking Background
+[2022.09.24-03.11.33:245][340]LogViewport: Scene viewport resized to 898x554, mode Windowed.
+[2022.09.24-03.11.33:271][341]LogViewport: Scene viewport resized to 1189x734, mode Windowed.
+[2022.09.24-03.11.33:331][342]LogViewport: Scene viewport resized to 1491x921, mode Windowed.
+[2022.09.24-03.11.33:355][343]LogViewport: Scene viewport resized to 1520x938, mode Windowed.
+[2022.09.24-03.11.33:396][344]LogViewport: Scene viewport resized to 1526x942, mode Windowed.
+[2022.09.24-03.11.38:991][997]LogEditorViewport: Clicking Background
+[2022.09.24-03.11.43:515][508]LogViewport: Scene viewport resized to 1526x611, mode Windowed.
+[2022.09.24-03.12.09:913][590]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.24-03.12.09:913][590]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.24-03.12.28:145][ 17]Cmd: DELETE
+[2022.09.24-03.12.28:145][ 17]Cmd: ACTOR DELETE
+[2022.09.24-03.12.41:359][132]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_SpriteCharacter.BP_SpriteCharacter
+[2022.09.24-03.12.41:359][132]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-03.12.51:632][797]LogSlate: Window 'BP_SpriteCharacter' being destroyed
+[2022.09.24-03.12.51:641][797]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-03.12.51:641][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-03.12.51:671][797]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_SpriteCharacter.BP_SpriteCharacter
+[2022.09.24-03.12.51:671][797]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-03.13.20:579][125]LogViewport: Scene viewport resized to 1141x723, mode Windowed.
+[2022.09.24-03.14.31:359][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SpriteCharacter" FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/BP_SpriteCharacter.uasset" SILENT=true
+[2022.09.24-03.14.31:362][389]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SpriteCharacter
+[2022.09.24-03.14.31:363][389]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/BP_SpriteCharacter2B9DF6184515F887486CFB8C51AB7E4A.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/BP_SpriteCharacter.uasset'
+[2022.09.24-03.14.31:375][389]AssetCheck: New page: Asset Save: BP_SpriteCharacter
+[2022.09.24-03.14.31:375][389]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_SpriteCharacter.BP_SpriteCharacter
+[2022.09.24-03.14.32:937][554]LogSlate: Window 'BP_SpriteCharacter' being destroyed
+[2022.09.24-03.14.32:946][554]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-03.14.32:946][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-03.14.37:131][657]LogViewport: Scene viewport resized to 481x193, mode Windowed.
+[2022.09.24-03.14.54:111][128]Cmd: DELETE
+[2022.09.24-03.14.54:111][128]Cmd: ACTOR DELETE
+[2022.09.24-03.14.54:115][128]LogEditorActor: Deleted Actor: BP_SpriteCharacter_C
+[2022.09.24-03.14.54:181][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2022.09.24-03.14.54:184][128]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2022.09.24-03.15.08:452][920]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Character
+[2022.09.24-03.15.08:452][920]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.Character
+[2022.09.24-03.15.08:455][920]LogActorFactory: Actor Factory spawned Class /Script/Engine.Character as actor: Character /Game/Maps/2dlevel.2dlevel:PersistentLevel.Character_0
+[2022.09.24-03.15.08:455][920]LogActorFactory: Actor Factory spawned Class /Script/Engine.Character as actor: Character /Game/Maps/2dlevel.2dlevel:PersistentLevel.Character_0
+[2022.09.24-03.15.10:354][144]Cmd: DELETE
+[2022.09.24-03.15.10:354][144]Cmd: ACTOR DELETE
+[2022.09.24-03.15.10:355][144]LogEditorActor: Deleted Actor: Character
+[2022.09.24-03.15.10:376][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.09.24-03.15.10:379][144]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2022.09.24-03.15.20:672][594]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2022.09.24-03.15.20:672][594]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PlayerStart
+[2022.09.24-03.15.20:673][594]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Maps/2dlevel.2dlevel:PersistentLevel.PlayerStart_0
+[2022.09.24-03.15.20:673][594]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.09.24-03.15.20:674][594]LogActorFactory: Actor Factory spawned Class /Script/Engine.PlayerStart as actor: PlayerStart /Game/Maps/2dlevel.2dlevel:PersistentLevel.PlayerStart_0
+[2022.09.24-03.15.20:674][594]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.09.24-03.15.20:675][594]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.09.24-03.15.51:658][194]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2022.09.24-03.16.12:464][632]LogSlate: Window 'Pixel2dGame - Unreal Editor' being destroyed
+[2022.09.24-03.16.12:545][632]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu
+[2022.09.24-03.16.12:545][632]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.File
+[2022.09.24-03.16.12:545][632]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Window
+[2022.09.24-03.16.12:545][632]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Edit
+[2022.09.24-03.16.12:545][632]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Help
+[2022.09.24-03.16.12:545][632]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Tools
+[2022.09.24-03.16.12:545][632]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build
+[2022.09.24-03.16.12:545][632]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingQuality
+[2022.09.24-03.16.12:545][632]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo.LightingDensity
+[2022.09.24-03.16.12:545][632]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo.LightingResolution
+[2022.09.24-03.16.12:546][632]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Build.LightingInfo
+[2022.09.24-03.16.12:546][632]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Select
+[2022.09.24-03.16.12:546][632]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.Cinematics
+[2022.09.24-03.16.12:546][632]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.LevelToolbarQuickSettings
+[2022.09.24-03.16.12:546][632]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.OpenBlueprint
+[2022.09.24-03.16.12:546][632]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.AddQuickMenu
+[2022.09.24-03.16.12:547][632]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.ModesToolBar
+[2022.09.24-03.16.12:547][632]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.AssetsToolBar
+[2022.09.24-03.16.12:547][632]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.PlayToolBar
+[2022.09.24-03.16.12:547][632]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.User
+[2022.09.24-03.16.12:547][632]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.SettingsToolbar
+[2022.09.24-03.16.12:559][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.24-03.16.12:564][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.24-03.16.12:570][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.24-03.16.12:576][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.24-03.16.12:591][632]LogToolMenus: Warning: Menu already registered : LevelEditor.StatusBar.ToolBar.CompileComboButton
+[2022.09.24-03.16.12:605][632]LogViewport: Scene viewport resized to 1526x942, mode Windowed.
+[2022.09.24-03.16.40:800][262]LogEditorViewport: Clicking Background
+[2022.09.24-03.16.48:682][664]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.24-03.16.50:937][664]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.09.24-03.16.50:942][664]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.09.24-03.16.50:946][664]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.09.24-03.16.50:952][665]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.09.24-03.16.58:078][508]LogContentBrowser: Attempting asset rename: NewBlueprint -> GM_SideSCroller
+[2022.09.24-03.16.58:082][508]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.09.24-03.17.07:978][ 17]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.24-03.17.07:978][ 17]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.24-03.17.09:916][238]LogContentBrowser: Attempting asset rename: GM_SideSCroller -> GM_SideScroller
+[2022.09.24-03.17.09:931][238]LogMetaData: Removing '/Game/Blueprints/RenameTmp.RenameTmp:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/GM_SideSCroller.PackageMetaData'
+[2022.09.24-03.17.09:931][238]LogMetaData: Removing '/Game/Blueprints/RenameTmp.SKEL_RenameTmp_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/GM_SideSCroller.PackageMetaData'
+[2022.09.24-03.17.09:931][238]LogMetaData: Removing '/Game/Blueprints/RenameTmp.SKEL_RenameTmp_C' ref from Metadata '/Game/Blueprints/GM_SideSCroller.PackageMetaData'
+[2022.09.24-03.17.09:931][238]LogMetaData: Removing '/Game/Blueprints/RenameTmp.RenameTmp_C' ref from Metadata '/Game/Blueprints/GM_SideSCroller.PackageMetaData'
+[2022.09.24-03.17.09:931][238]LogMetaData: Removing '/Game/Blueprints/RenameTmp.RenameTmp:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/GM_SideSCroller.PackageMetaData'
+[2022.09.24-03.17.09:931][238]LogMetaData: Removing '/Game/Blueprints/RenameTmp.RenameTmp:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/GM_SideSCroller.PackageMetaData'
+[2022.09.24-03.17.09:962][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.09.24-03.17.09:986][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.09.24-03.17.10:004][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.09.24-03.17.10:005][238]LogMetaData: Removing '/Game/Blueprints/GM_SideScroller.GM_SideScroller_C' ref from Metadata '/Game/Blueprints/RenameTmp.PackageMetaData'
+[2022.09.24-03.17.10:005][238]LogMetaData: Removing '/Game/Blueprints/GM_SideScroller.SKEL_GM_SideScroller_C' ref from Metadata '/Game/Blueprints/RenameTmp.PackageMetaData'
+[2022.09.24-03.17.10:005][238]LogMetaData: Removing '/Game/Blueprints/GM_SideScroller.SKEL_GM_SideScroller_C:UserConstructionScript' ref from Metadata '/Game/Blueprints/RenameTmp.PackageMetaData'
+[2022.09.24-03.17.10:005][238]LogMetaData: Removing '/Game/Blueprints/GM_SideScroller.GM_SideScroller:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/RenameTmp.PackageMetaData'
+[2022.09.24-03.17.10:005][238]LogMetaData: Removing '/Game/Blueprints/GM_SideScroller.GM_SideScroller:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/RenameTmp.PackageMetaData'
+[2022.09.24-03.17.10:005][238]LogMetaData: Removing '/Game/Blueprints/GM_SideScroller.GM_SideScroller:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/RenameTmp.PackageMetaData'
+[2022.09.24-03.17.10:033][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.09.24-03.17.10:053][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.09.24-03.17.10:073][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.09.24-03.17.13:578][423]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GM_SideScroller.GM_SideScroller
+[2022.09.24-03.17.13:578][423]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-03.17.13:937][423]LogViewport: Scene viewport resized to 988x747, mode Windowed.
+[2022.09.24-03.17.27:132][239]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.24-03.17.38:373][742]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GM_SideScroller" FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/GM_SideScroller.uasset" SILENT=true
+[2022.09.24-03.17.38:375][742]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_SideScroller
+[2022.09.24-03.17.38:375][742]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/GM_SideScrollerD9DA145141FECC1304BD9AB9FF854BE0.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/GM_SideScroller.uasset'
+[2022.09.24-03.17.38:385][742]AssetCheck: New page: Asset Save: GM_SideScroller
+[2022.09.24-03.17.38:385][742]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GM_SideScroller.GM_SideScroller
+[2022.09.24-03.17.40:248][960]LogSlate: Window 'GM_SideScroller' being destroyed
+[2022.09.24-03.17.40:251][960]LogSlate: Window 'GM_SideScroller' being destroyed
+[2022.09.24-03.17.40:255][960]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-03.17.40:256][960]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-03.17.43:712][361]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.09.24-03.17.43:797][361]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.09.24-03.18.09:648][701]LogSlate: Window 'Project Settings' being destroyed
+[2022.09.24-03.18.09:651][701]LogSlate: Window 'Project Settings' being destroyed
+[2022.09.24-03.18.10:432][791]LogEditorViewport: Clicking Background
+[2022.09.24-03.18.10:730][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/2dlevel" FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Maps/2dlevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.24-03.18.10:751][823]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.09.24-03.18.10:755][823]LogSavePackage: Moving output files for package: /Game/Maps/2dlevel
+[2022.09.24-03.18.10:756][823]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/2dlevel7013C01B460B198350C4AE87CC2C990A.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Maps/2dlevel.umap'
+[2022.09.24-03.18.10:780][823]AssetCheck: New page: Asset Save: 2dlevel
+[2022.09.24-03.18.10:780][823]LogContentValidation: Display: Validating World /Game/Maps/2dlevel.2dlevel
+[2022.09.24-03.18.11:487][907]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.24-03.18.11:492][907]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.09.24-03.18.11:493][907]LogPlayLevel: [PlayLevel] Compiling BP_SpriteCharacter before play...
+[2022.09.24-03.18.11:519][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.09.24-03.18.11:520][907]LogPlayLevel: PlayLevel: Blueprint regeneration took 27 ms (1 blueprints)
+[2022.09.24-03.18.11:520][907]PIE: New page: PIE session: 2dlevel (Sep 23, 2022, 5:18:11 PM)
+[2022.09.24-03.18.11:520][907]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_2dlevel
+[2022.09.24-03.18.11:521][907]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000802s)
+[2022.09.24-03.18.11:521][907]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/2dlevel.2dlevel to /Game/Maps/UEDPIE_0_2dlevel.2dlevel (0.000859s)
+[2022.09.24-03.18.11:521][907]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.24-03.18.11:521][907]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-03.18.11:521][907]LogAIModule: Creating AISystem for world 2dlevel
+[2022.09.24-03.18.11:522][907]LogPlayLevel: PIE: World Init took: (0.000652s)
+[2022.09.24-03.18.11:542][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.09.24-03.18.11:543][907]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.09.24-03.18.11:543][907]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.24-03.18.11:543][907]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.24-03.18.11:543][907]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.24-03.18.11:543][907]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.24-03.18.11:543][907]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.24-03.18.11:543][907]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.24-03.18.11:543][907]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.24-03.18.11:543][907]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.24-03.18.11:543][907]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.24-03.18.11:543][907]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.24-03.18.11:543][907]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.24-03.18.11:545][907]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.24-03.18.11:570][907]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G935/G933s Gaming Headset)
+[2022.09.24-03.18.11:570][907]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.24-03.18.11:570][907]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.24-03.18.11:570][907]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.24-03.18.11:571][907]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2022.09.24-03.18.11:571][907]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=5
+[2022.09.24-03.18.11:572][907]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2022.09.24-03.18.11:572][907]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2022.09.24-03.18.11:572][907]LogInit: FAudioDevice initialized.
+[2022.09.24-03.18.11:572][907]LogAudio: Display: Audio Device (ID: 5) registered with world '2dlevel'.
+[2022.09.24-03.18.11:579][907]LogLoad: Game class is 'GM_SideScroller_C'
+[2022.09.24-03.18.11:579][907]LogWorld: Bringing World /Game/Maps/UEDPIE_0_2dlevel.2dlevel up for play (max tick rate 0) at 2022.09.23-22.18.11
+[2022.09.24-03.18.11:579][907]LogWorld: Bringing up level for play took: 0.000411
+[2022.09.24-03.18.11:581][907]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2022.09.24-03.18.11:583][907]PIE: Server logged in
+[2022.09.24-03.18.11:583][907]PIE: Play in editor total start time 0.091 seconds.
