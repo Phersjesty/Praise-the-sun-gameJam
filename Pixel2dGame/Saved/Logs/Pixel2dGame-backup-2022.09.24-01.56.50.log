@@ -1,0 +1,1078 @@
+﻿Log file open, 09/23/22 20:44:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=24400)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Pixel2dGame
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20979098"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.3-20979098+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" "D:/Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Pixel2dGame.uproject" -EpicPortal -epicusername="Drank reepo" -epicuserid=37a359779a4640a1bab09e5069099918 -epiclocale=en -epicsandboxid=ue""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) [10.0.22000.795] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="a656a86040dfac2587af28b570b46344"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.556244
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-1709C75946162391B7EC0B9572A59F26
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading HoloLens ini files took 0.06 seconds
+LogConfig: Display: Loading Mac ini files took 0.06 seconds
+LogConfig: Display: Loading IOS ini files took 0.07 seconds
+LogConfig: Display: Loading Android ini files took 0.07 seconds
+LogConfig: Display: Loading TVOS ini files took 0.07 seconds
+LogConfig: Display: Loading Unix ini files took 0.07 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.07 seconds
+LogConfig: Display: Loading Linux ini files took 0.08 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.02 seconds
+LogConfig: Display: Loading Windows ini files took 0.02 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20979098
+LogInit: Engine Version: 5.0.3-20979098+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) [10.0.22000.795] (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Jul  7 2022 02:16:06
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line:  -EpicPortal -epicusername="Drank reepo" -epicuserid=37a359779a4640a1bab09e5069099918 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: D:/EpicGamesLibrary/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.09.24-01.44.07:986][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.09.24-01.44.07:986][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.09.24-01.44.07:986][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.09.24-01.44.07:986][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.09.24-01.44.08:006][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.09.24-01.44.08:006][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.09.24-01.44.08:006][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.09.24-01.44.08:006][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.09.24-01.44.08:006][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.09.24-01.44.08:006][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.09.24-01.44.08:006][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.09.24-01.44.08:006][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.09.24-01.44.08:006][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.09.24-01.44.08:006][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.09.24-01.44.08:006][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.09.24-01.44.08:006][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.09.24-01.44.08:006][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.09.24-01.44.08:006][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.09.24-01.44.08:006][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.09.24-01.44.08:007][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.09.24-01.44.08:009][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.09.24-01.44.08:009][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.09.24-01.44.08:009][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.09.24-01.44.08:009][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.09.24-01.44.08:009][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.09.24-01.44.08:009][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.09.24-01.44.08:009][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.09.24-01.44.08:009][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.09.24-01.44.08:009][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.09.24-01.44.08:010][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.09.24-01.44.08:010][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.09.24-01.44.08:113][  0]LogD3D12RHI: Aftermath initialized
+[2022.09.24-01.44.08:113][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.09.24-01.44.11:599][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1660 Ti (Max supported Feature Level 12_1, shader model 6.6)
+[2022.09.24-01.44.11:599][  0]LogD3D12RHI: Adapter has 5991MB of dedicated video memory, 0MB of dedicated system memory, and 8115MB of shared system memory, 1 output[s]
+[2022.09.24-01.44.11:661][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics 630 (Max supported Feature Level 12_1, shader model 6.4)
+[2022.09.24-01.44.11:661][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8115MB of shared system memory, 1 output[s]
+[2022.09.24-01.44.11:695][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.09.24-01.44.11:695][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8115MB of shared system memory, 0 output[s]
+[2022.09.24-01.44.11:695][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.09.24-01.44.11:695][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.09.24-01.44.11:695][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.09.24-01.44.11:695][  0]LogHAL: Display: Platform has ~ 16 GB [17019686912 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.09.24-01.44.11:696][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.09.24-01.44.11:696][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.09.24-01.44.11:696][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.09.24-01.44.11:696][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.09.24-01.44.11:696][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/Config/WindowsEditor/Editor.ini]
+[2022.09.24-01.44.11:696][  0]LogInit: Computer: LAPTOP-R9MR4IA5
+[2022.09.24-01.44.11:696][  0]LogInit: User: danny
+[2022.09.24-01.44.11:696][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.09.24-01.44.11:696][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.09.24-01.44.11:696][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.09.24-01.44.11:696][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.09.24-01.44.11:696][  0]LogMemory: Process Physical Memory: 278.43 MB used, 285.81 MB peak
+[2022.09.24-01.44.11:696][  0]LogMemory: Process Virtual Memory: 229.12 MB used, 245.43 MB peak
+[2022.09.24-01.44.11:696][  0]LogMemory: Physical Memory: 12060.70 MB used,  4170.54 MB free, 16231.24 MB total
+[2022.09.24-01.44.11:696][  0]LogMemory: Virtual Memory: 17909.83 MB used,  5745.41 MB free, 23655.24 MB total
+[2022.09.24-01.44.11:696][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.09.24-01.44.11:701][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.09.24-01.44.11:719][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.09.24-01.44.11:719][  0]LogInit: Using OS detected language (en-US).
+[2022.09.24-01.44.11:719][  0]LogInit: Using OS detected locale (en-US).
+[2022.09.24-01.44.11:722][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.09.24-01.44.11:894][  0]LogInit: Setting process to per monitor DPI aware
+[2022.09.24-01.44.11:906][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.09.24-01.44.11:906][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.09.24-01.44.11:906][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.09.24-01.44.11:941][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.09.24-01.44.11:941][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.09.24-01.44.12:124][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.09.24-01.44.12:394][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.09.24-01.44.12:394][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.09.24-01.44.12:672][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.09.24-01.44.12:672][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.09.24-01.44.12:672][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.09.24-01.44.12:672][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.09.24-01.44.12:672][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.09.24-01.44.12:672][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.09.24-01.44.12:672][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.09.24-01.44.12:672][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.09.24-01.44.12:672][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.09.24-01.44.12:672][  0]LogD3D12RHI: D3D12 ray tracing tier 1.0 is supported.
+[2022.09.24-01.44.12:672][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.09.24-01.44.12:672][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.09.24-01.44.12:672][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.09.24-01.44.12:672][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.09.24-01.44.12:672][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.09.24-01.44.12:908][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.09.24-01.44.12:922][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.09.24-01.44.12:954][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.09.24-01.44.14:014][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.09.24-01.44.14:014][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.09.24-01.44.14:067][  0]LogD3D12RHI:     GPU DeviceId: 0x2191 (for the marketing name, search the web for "GPU Device Id")
+[2022.09.24-01.44.14:067][  0]LogWindows: Attached monitors:
+[2022.09.24-01.44.14:067][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1032), device: '\\.\DISPLAY4' [PRIMARY]
+[2022.09.24-01.44.14:067][  0]LogWindows:     resolution: 1920x1080, work area: (1920, 3) -> (3840, 1035), device: '\\.\DISPLAY1'
+[2022.09.24-01.44.14:067][  0]LogWindows: Found 2 attached monitors.
+[2022.09.24-01.44.14:067][  0]LogWindows: EnumDisplayDevices:
+[2022.09.24-01.44.14:067][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:0 D:1), name: '\\.\DISPLAY1'
+[2022.09.24-01.44.14:068][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.09.24-01.44.14:068][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.09.24-01.44.14:068][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660 Ti' (P:1 D:1), name: '\\.\DISPLAY4'
+[2022.09.24-01.44.14:069][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0), name: '\\.\DISPLAY5'
+[2022.09.24-01.44.14:069][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0), name: '\\.\DISPLAY6'
+[2022.09.24-01.44.14:069][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1660 Ti' (P:0 D:0), name: '\\.\DISPLAY7'
+[2022.09.24-01.44.14:069][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.09.24-01.44.14:069][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1660 Ti
+[2022.09.24-01.44.14:069][  0]LogD3D12RHI:   Driver Version: 472.47 (internal:30.0.14.7247, unified:472.47)
+[2022.09.24-01.44.14:069][  0]LogD3D12RHI:      Driver Date: 10-26-2021
+[2022.09.24-01.44.14:069][  0]LogRHI: Texture pool is 3290 MB (70% of 4700 MB)
+[2022.09.24-01.44.14:069][  0]LogD3D12RHI: Async texture creation enabled
+[2022.09.24-01.44.14:069][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.09.24-01.44.14:288][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.09.24-01.44.17:975][  0]Message dialog closed, result: Ok, title: WARNING: Known issues with graphics driver, text: The installed version of the NVIDIA graphics driver has known issues in D3D12.
+Please install either the latest or the recommended driver version or switch to a different rendering API.
+
+https://www.nvidia.com/en-us/geforce/drivers/
+
+NVIDIA GeForce GTX 1660 Ti
+Installed: 472.47
+Recommended: 516.25
+[2022.09.24-01.44.17:986][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="D:/Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Pixel2dGame.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Intermediate/TurnkeyReport_0.log" -log="D:/Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Intermediate/TurnkeyLog_0.log" -project="D:/Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Pixel2dGame.uproject"  -platform=all'
+[2022.09.24-01.44.17:986][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/EpicGamesLibrary/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="D:/Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Pixel2dGame.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="D:/Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Intermediate/TurnkeyReport_0.log" -log="D:/Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Intermediate/TurnkeyLog_0.log" -project="D:/Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Pixel2dGame.uproject"  -platform=all" ]
+[2022.09.24-01.44.18:020][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.09.24-01.44.18:029][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.09.24-01.44.18:029][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.09.24-01.44.18:039][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.09.24-01.44.18:039][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.09.24-01.44.18:039][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.09.24-01.44.18:039][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.09.24-01.44.18:039][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.09.24-01.44.18:039][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.09.24-01.44.18:039][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.09.24-01.44.18:039][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.09.24-01.44.18:039][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.09.24-01.44.18:039][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.09.24-01.44.18:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.09.24-01.44.18:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.09.24-01.44.18:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.09.24-01.44.18:067][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.09.24-01.44.18:071][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.09.24-01.44.18:071][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.09.24-01.44.18:071][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.09.24-01.44.18:071][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.09.24-01.44.18:074][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.09.24-01.44.18:074][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.09.24-01.44.18:074][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.09.24-01.44.18:077][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.09.24-01.44.18:077][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.09.24-01.44.18:084][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.09.24-01.44.18:084][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.09.24-01.44.18:084][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.09.24-01.44.18:084][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.09.24-01.44.18:084][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.09.24-01.44.18:093][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.09.24-01.44.18:096][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.09.24-01.44.18:096][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.09.24-01.44.18:096][  0]LogTargetPlatformManager:   ADPCM
+[2022.09.24-01.44.18:096][  0]LogTargetPlatformManager:   PCM
+[2022.09.24-01.44.18:099][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.09.24-01.44.18:099][  0]LogTargetPlatformManager:   BINKA
+[2022.09.24-01.44.18:099][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.09.24-01.44.18:099][  0]LogTargetPlatformManager:   OGG
+[2022.09.24-01.44.18:099][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.09.24-01.44.18:099][  0]LogTargetPlatformManager:   OPUS
+[2022.09.24-01.44.18:148][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 9009
+[2022.09.24-01.44.18:148][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.09.24-01.44.18:155][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.09.24-01.44.18:155][  0]LogTargetPlatformManager:   SF_METAL
+[2022.09.24-01.44.18:155][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.09.24-01.44.18:155][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.09.24-01.44.18:155][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.09.24-01.44.18:155][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.09.24-01.44.18:155][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.09.24-01.44.18:155][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.09.24-01.44.18:155][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.09.24-01.44.18:155][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.09.24-01.44.18:155][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.09.24-01.44.18:155][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.09.24-01.44.18:155][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.09.24-01.44.18:155][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.09.24-01.44.18:155][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.09.24-01.44.18:155][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.09.24-01.44.18:158][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.09.24-01.44.18:158][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.09.24-01.44.18:158][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.09.24-01.44.18:158][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.09.24-01.44.18:158][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.09.24-01.44.18:158][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.09.24-01.44.18:158][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.09.24-01.44.18:158][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.09.24-01.44.18:158][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.09.24-01.44.18:258][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.09.24-01.44.18:258][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.09.24-01.44.18:324][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.09.24-01.44.18:352][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.09.24-01.44.18:352][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.09.24-01.44.18:352][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.24-01.44.18:352][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.09.24-01.44.18:372][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1230 MiB)
+[2022.09.24-01.44.18:372][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.09.24-01.44.18:372][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.09.24-01.44.18:379][  0]LogDerivedDataCache: Speed tests for C:/Users/danny/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.09.24-01.44.18:379][  0]LogDerivedDataCache: Display: Performance to C:/Users/danny/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1436.48MBs, RandomWriteSpeed=169.41MBs. Assigned SpeedClass 'Local'
+[2022.09.24-01.44.18:381][  0]LogDerivedDataCache: Using Local data cache path C:/Users/danny/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.09.24-01.44.18:381][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.09.24-01.44.18:381][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.09.24-01.44.18:387][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.09.24-01.44.18:387][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.09.24-01.44.18:388][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Intermediate/Shaders/WorkingDirectory/3856/).
+[2022.09.24-01.44.18:388][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/danny/AppData/Local/Temp/UnrealShaderWorkingDir/3A8FEA7D42A12AFAEC39009CB7556F67/'.
+[2022.09.24-01.44.18:388][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.09.24-01.44.18:388][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2022.09.24-01.44.19:840][  0]LogSlate: Using FreeType 2.10.0
+[2022.09.24-01.44.19:840][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.09.24-01.44.19:891][  0]LogAssetRegistry: FAssetRegistry took 0.0129 seconds to start up
+[2022.09.24-01.44.19:898][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.09.24-01.44.20:073][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.09.24-01.44.20:074][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.09.24-01.44.20:304][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.09.24-01.44.20:304][  0]LogDeviceProfileManager: Active device profile: [00000820E0534440][00000820D6F62800 50] WindowsEditor
+[2022.09.24-01.44.20:304][  0]LogDeviceProfileManager: Profiles: [00000820E0533F00][00000820C2F25000 50] Windows, [00000820E0534440][00000820D6F62800 50] WindowsEditor, [00000820E0532680][00000820D6F2A000 50] WindowsServer, [00000820E05324C0][00000820E0590000 50] WindowsClient, [00000820E0533480][00000820E0595000 50] IOS, [00000820E0530A80][00000820E0597800 50] iPadAir2, [00000820E0535400][00000820E059C800 50] IPadPro, [00000820E0535780][00000820E059A000 50] iPadAir3, [00000820E0533B80][00000820D6532800 50] iPadAir4, [00000820E05347C0][00000820E05D0000 50] iPadMini4, [00000820E0530380][00000820E05D5000 50] iPadMini5, [00000820E0535940][00000820E05D7800 50] iPadMini6, [00000820E0538500][00000820E0592800 50] iPhone6S, [00000820E0538880][00000820E05DC800 50] iPhone7, [00000820E0538C00][00000820E05DA000 50] iPodTouch7, [00000820E0536580][00000820E05A0000 50] iPhone6SPlus, [00000820E05355C0][00000820E05A5000 50] iPhone7Plus, [00000820E0534EC0][00000820E05A7800 50] iPhoneSE, [00000820E0536040][00000820E05AA000 50] iPhone8, [00000820E0533640][00000820E05AC800 50] iPhone8Plus, [00000820E0535080][00000820E05D2800 50] iPhoneX, [00000820E0536AC0][00000820E05B0000 50] iPhoneXS, [00000820E0530E00][00000820E05B5000 50] iPhoneXSMax, [00000820E0535240][00000820E05B7800 50] iPhoneXR, [00000820E0533800][00000820E05BA000 50] iPhone11, [00000820E05332C0][00000820E05BC800 50] iPhone11Pro, [00000820E05386C0][00000820E05A2800 50] iPhone11ProMax, [00000820E0531C00][00000820E05F0000 50] iPhoneSE2, [00000820E0536C80][00000820E05F5000 50] iPhone12Mini, [00000820E0534D00][00000820E05F7800 50] iPhone12, [00000820E0536200][00000820E05FA000 50] iPhone12Pro, [00000820E0531340][00000820E05FC800 50] iPhone12ProMax, [00000820E05378C0][00000820E05B2800 50] iPhone13Mini, [00000820E0532F40][00000820E0600000 50] iPhone13, [00000820E0532840][00000820E0605000 50] iPhone13Pro, [00000820E0532300][00000820E0607800 50] iPhone13ProMax, [00000820E0537700][00000820E060A000 50] iPadPro105, [00000820E0534980][00000820E060C800 50] iPadPro129, [00000820E0537FC0][00000820E05F2800 50] iPadPro97, [00000820E05339C0][00000820E0610000 50] iPadPro2_129, [00000820E0531880][00000820E0615000 50] iPad5, [00000820E0537A80][00000820E0617800 50] iPad6, [00000820E05308C0][00000820E061A000 50] iPad7, [00000820E0537540][00000820E061C800 50] iPad8, [00000820E0531A40][00000820E0602800 50] iPad9, [00000820E0536E40][00000820E0630000 50] iPadPro11, [00000820E05301C0][00000820E0635000 50] iPadPro2_11, [00000820E0532140][00000820E0637800 50] iPadPro3_11, [00000820E0537000][00000820E063A000 50] iPadPro3_129, [00000820E0536900][00000820E063C800 50] iPadPro4_129, [00000820E0530540][00000820E0612800 50] iPadPro5_129, [00000820E0535CC0][00000820E0640000 50] AppleTV, [00000820E0538180][00000820E0645000 50] AppleTV4K, [00000820E0535E80][00000820E0647800 50] TVOS, [00000820E053A2C0][00000820E064C800 50] Mac, [00000820E053A640][00000820E064A000 50] MacEditor, [00000820E0538A40][00000820E0632800 50] MacClient, [00000820E0530FC0][00000820E0650000 50] MacServer, [00000820E0533100][00000820E0657800 50] Linux, [00000820E0538DC0][00000820E0655000 50] LinuxEditor, [00000820E0538340][00000820E065A000 50] LinuxArm64Editor, [00000820E0537E00][00000820E065C800 50] LinuxArm64, [00000820E053A800][00000820E0642800 50] LinuxClient, [00000820E0536740][00000820E0660000 50] LinuxArm64Client, [00000820E0537C40][00000820E0665000 50] LinuxServer, [00000820E053A480][00000820E0667800 50] LinuxArm64Server, [00000820E0531F80][00000820E066A000 50] Android, [00000820E0537380][00000820E066C800 50] Android_Preview_OpenGL, [00000820E0535B00][00000820E0652800 50] Android_Preview_Vulkan, [00000820E0539A00][00000820E0670000 50] Android_Low, [00000820E0538F80][00000820E0675000 50] Android_Mid, [00000820E05371C0][00000820E0677800 50] Android_High, [00000820E0532D80][00000820E067A000 50] Android_Default, [00000820E05363C0][00000820E067C800 50] Android_Adreno4xx, [00000820E05394C0][00000820E0662800 50] Android_Adreno5xx_Low, [00000820E0531180][00000820E0680000 50] Android_Adreno5xx, [00000820E0539BC0][00000820E0685000 50] Android_Adreno6xx, [00000820E053AB80][00000820E0687800 50] Android_Adreno6xx_Vulkan, [00000820E0532A00][00000820E068A000 50] Android_Adreno7xx, [00000820E053AD40][00000820E068C800 50] Android_Adreno7xx_Vulkan, [00000820E053A9C0][00000820E0672800 50] Android_Mali_T6xx, [00000820E0539840][00000820E0690000 50] Android_Mali_T7xx, [00000820E0532BC0][00000820E0695000 50] Android_Mali_T8xx, [00000820E053AF00][00000820E0697800 50] Android_Mali_G71, [00000820E05316C0][00000820E069A000 50] Android_Mali_G72, [00000820E0534B40][00000820E069C800 50] Android_Mali_G72_Vulkan, [00000820E053B0C0][00000820E0682800 50] Android_Mali_G76, [00000820E0530000][00000820E06A0000 50] Android_Mali_G76_Vulkan, [00000820E053BEC0][00000820E06A5000 50] Android_Mali_G77, [00000820E053B600][00000820E06A7800 50] Android_Mali_G77_Vulkan, [00000820E0533D40][00000820E06AA000 50] Android_Mali_G78, [00000820E053B980][00000820E06AC800 50] Android_Mali_G78_Vulkan, [00000820E0539D80][00000820E0692800 50] Android_Mali_G710, [00000820E053C780][00000820E06B0000 50] Android_Mali_G710_Vulkan, [00000820E0534600][00000820E06B5000 50] Android_Xclipse_920, [00000820E053BD00][00000820E06B7800 50] Android_Xclipse_920_Vulkan, [00000820E0539140][00000820E06BA000 50] Android_Vulkan_SM5, [00000820E053B440][00000820E06BC800 50] Android_PowerVR_G6xxx, [00000820E053D200][00000820E06A2800 50] Android_PowerVR_GT7xxx, [00000820E053B7C0][00000820E06C0000 50] Android_PowerVR_GE8xxx, [00000820E053CE80][00000820E06C5000 50] Android_PowerVR_GM9xxx, [00000820E0530700][00000820E06C7800 50] Android_PowerVR_GM9xxx_Vulkan, [00000820E0539680][00000820E06CA000 50] Android_TegraK1, [00000820E053DAC0][00000820E06CC800 50] Android_Unknown_Vulkan, [00000820E053C400][00000820E06B2800 50] Oculus_Quest, [00000820E0531500][00000820E06D0000 50] Oculus_Quest2, [00000820E053C240][00000820E06D5000 50] HoloLens, 
+[2022.09.24-01.44.20:305][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.09.24-01.44.21:694][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.09.24-01.44.21:890][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.09.24-01.44.21:890][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.09.24-01.44.21:890][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.09.24-01.44.21:890][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.09.24-01.44.21:890][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.09.24-01.44.21:909][  0]LogNetVersion: Pixel2dGame 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 1859325644)
+[2022.09.24-01.44.22:367][  0]LogSlate: Border
+[2022.09.24-01.44.22:367][  0]LogSlate: BreadcrumbButton
+[2022.09.24-01.44.22:367][  0]LogSlate: Default
+[2022.09.24-01.44.22:367][  0]LogSlate: Icons.Save
+[2022.09.24-01.44.22:367][  0]LogSlate: Icons.Toolbar.Settings
+[2022.09.24-01.44.22:367][  0]LogSlate: ListView
+[2022.09.24-01.44.22:367][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.09.24-01.44.22:367][  0]LogSlate: SoftwareCursor_Grab
+[2022.09.24-01.44.22:367][  0]LogSlate: TableView.DarkRow
+[2022.09.24-01.44.22:367][  0]LogSlate: TableView.Row
+[2022.09.24-01.44.22:367][  0]LogSlate: TreeView
+[2022.09.24-01.44.22:873][  0]SourceControl: Source control is disabled
+[2022.09.24-01.44.22:902][  0]SourceControl: Source control is disabled
+[2022.09.24-01.44.22:902][  0]SourceControl: Source control is disabled
+[2022.09.24-01.44.23:026][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.09.24-01.44.23:026][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.09.24-01.44.23:026][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.09.24-01.44.24:153][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: ECE0B50A45BA9EDC1D7F2981EBDE2B4C | Instance: 6D3C7B4D4EC0CF01C668EEB806865BF9 (LAPTOP-R9MR4IA5-3856).
+[2022.09.24-01.44.24:192][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.09.24-01.44.24:200][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.09.24-01.44.24:213][  0]LogPython: Using Python 3.9.7
+[2022.09.24-01.44.25:209][  0]SourceControl: Source control is disabled
+[2022.09.24-01.44.25:212][  0]SourceControl: Source control is disabled
+[2022.09.24-01.44.25:222][  0]SourceControl: Source control is disabled
+[2022.09.24-01.44.25:232][  0]LogUProjectInfo: Found projects:
+[2022.09.24-01.44.38:316][  0]LogOpenImageDenoise: OIDN starting up
+[2022.09.24-01.44.38:352][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.09.24-01.44.38:373][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.24-01.44.38:373][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.09.24-01.44.38:574][  0]LogCollectionManager: Loaded 0 collections in 0.087779 seconds
+[2022.09.24-01.44.38:667][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/Collections/' took 0.00s
+[2022.09.24-01.44.38:667][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/Developers/danny/Collections/' took 0.00s
+[2022.09.24-01.44.38:667][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/Collections/' took 0.00s
+[2022.09.24-01.44.39:645][  0]LogEngine: Initializing Engine...
+[2022.09.24-01.44.40:061][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.09.24-01.44.40:102][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.09.24-01.44.40:397][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.09.24-01.44.40:397][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.24-01.44.40:408][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-01.44.40:449][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.09.24-01.44.40:450][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.09.24-01.44.40:476][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.09.24-01.44.40:476][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.09.24-01.44.40:476][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.09.24-01.44.40:477][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.09.24-01.44.40:477][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.09.24-01.44.40:477][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.24-01.44.40:477][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.24-01.44.40:477][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.24-01.44.40:477][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.24-01.44.40:477][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.24-01.44.40:477][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.24-01.44.40:477][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.24-01.44.40:477][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.24-01.44.40:477][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.24-01.44.40:477][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.24-01.44.40:477][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.24-01.44.40:483][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.24-01.44.40:530][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G935/G933s Gaming Headset)
+[2022.09.24-01.44.40:530][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.24-01.44.40:533][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.24-01.44.40:533][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.24-01.44.40:533][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.09.24-01.44.40:533][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2022.09.24-01.44.40:535][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.09.24-01.44.40:535][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.09.24-01.44.40:535][  0]LogInit: FAudioDevice initialized.
+[2022.09.24-01.44.40:535][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.09.24-01.44.40:535][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.09.24-01.44.40:535][  0]LogInit: Texture streaming: Enabled
+[2022.09.24-01.44.40:576][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.3-20979098+++UE5+Release-5.0
+[2022.09.24-01.44.40:587][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.09.24-01.44.40:613][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.09.24-01.44.40:621][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.09.24-01.44.40:621][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.09.24-01.46.32:726][  0]LogLiveCoding: Display: First instance in process group "UE_Pixel2dGame_0xa1abfb88", spawning console
+[2022.09.24-01.46.32:726][  0]LogLiveCoding: Display: Waiting for server
+[2022.09.24-01.46.32:726][  0]LogDerivedDataCache: C:/Users/danny/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.036 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.24-01.46.32:726][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.09.24-01.46.32:816][  0]LogInit: Transaction tracking system initialized
+[2022.09.24-01.46.32:934][  0]BlueprintLog: New page: Editor Load
+[2022.09.24-01.46.33:181][  0]LocalizationService: Localization service is disabled
+[2022.09.24-01.46.33:259][  0]TimingProfiler: Initialize
+[2022.09.24-01.46.33:259][  0]TimingProfiler: OnSessionChanged
+[2022.09.24-01.46.33:259][  0]LoadingProfiler: Initialize
+[2022.09.24-01.46.33:259][  0]LoadingProfiler: OnSessionChanged
+[2022.09.24-01.46.33:259][  0]NetworkingProfiler: Initialize
+[2022.09.24-01.46.33:259][  0]NetworkingProfiler: OnSessionChanged
+[2022.09.24-01.46.33:259][  0]MemoryProfiler: Initialize
+[2022.09.24-01.46.33:259][  0]MemoryProfiler: OnSessionChanged
+[2022.09.24-01.46.34:482][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/' took 0.01s
+[2022.09.24-01.46.34:483][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.09.24-01.46.34:572][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.09.24-01.46.34:574][  0]SourceControl: Source control is disabled
+[2022.09.24-01.46.34:574][  0]LogUnrealEdMisc: Loading editor; pre map load, took 149.435
+[2022.09.24-01.46.34:574][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.24-01.46.34:575][  0]LightingResults: New page: Lighting Build
+[2022.09.24-01.46.34:582][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-01.46.34:583][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-01.46.34:583][  0]MapCheck: New page: Map Check
+[2022.09.24-01.46.34:583][  0]LightingResults: New page: Lighting Build
+[2022.09.24-01.46.34:590][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.24-01.46.34:622][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.09.24-01.46.36:948][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Chair.SM_Chair should be resaved to improve async compilation performance.
+[2022.09.24-01.46.36:982][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_Statue.SM_Statue should be resaved to improve async compilation performance.
+[2022.09.24-01.46.37:079][  0]LogStaticMesh: StaticMesh /Game/StarterContent/Props/SM_TableRound.SM_TableRound should be resaved to improve async compilation performance.
+[2022.09.24-01.46.37:537][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.09.24-01.46.37:537][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.24-01.46.37:537][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-01.46.37:538][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.09.24-01.46.38:063][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.24-01.46.38:122][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.09.24-01.46.38:122][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.24-01.46.38:122][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.087ms to complete.
+[2022.09.24-01.46.38:122][  0]LogFileHelpers: Loading map 'Minimal_Default' took 3.548
+[2022.09.24-01.46.38:173][  0]LogUnrealEdMisc: Total Editor Startup Time, took 153.033
+[2022.09.24-01.46.38:173][  0]LogShaderCompilers: Display: ================================================
+[2022.09.24-01.46.38:173][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.09.24-01.46.38:173][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.09.24-01.46.38:173][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.09.24-01.46.38:173][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.09.24-01.46.38:173][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.09.24-01.46.38:173][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.09.24-01.46.38:173][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.09.24-01.46.38:173][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.09.24-01.46.38:173][  0]LogShaderCompilers: Display: ================================================
+[2022.09.24-01.46.39:648][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.24-01.46.39:676][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.24-01.46.39:682][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.24-01.46.39:687][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.24-01.46.41:658][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGamesLibrary/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.09.24-01.46.41:746][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.24-01.46.41:794][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGamesLibrary/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.09.24-01.46.41:794][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.24-01.46.41:802][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGamesLibrary/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.09.24-01.46.41:802][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.24-01.46.41:840][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGamesLibrary/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.09.24-01.46.41:840][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.24-01.46.41:915][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGamesLibrary/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.09.24-01.46.41:915][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.24-01.46.41:923][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGamesLibrary/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.09.24-01.46.41:923][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.24-01.46.41:930][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGamesLibrary/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.09.24-01.46.41:930][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.24-01.46.41:940][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGamesLibrary/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.09.24-01.46.41:940][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.24-01.46.41:945][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGamesLibrary/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.09.24-01.46.41:946][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.24-01.46.41:953][  0]LogPakFile: Display: Mounted Pak file 'D:/EpicGamesLibrary/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.09.24-01.46.41:953][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.09.24-01.46.41:975][  0]LogFeaturePack: Error: Error in Feature pack D:/EpicGamesLibrary/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack. Failed to parse manifest: Invalid Json Token. Line: 43 Ch: 4
+[2022.09.24-01.46.44:977][  0]LogSlate: Took 0.000302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.24-01.46.45:214][  0]LogSlate: Took 0.051310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.09.24-01.46.45:285][  0]LogSlate: Took 0.021747 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.09.24-01.46.45:471][  0]LogViewport: Scene viewport resized to 1526x894, mode Windowed.
+[2022.09.24-01.46.53:024][  0]LogStall: Startup...
+[2022.09.24-01.46.53:026][  0]LogStall: Startup complete.
+[2022.09.24-01.46.53:139][  0]LogLoad: (Engine Initialization) Total time: 168.00 seconds
+[2022.09.24-01.46.53:139][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.09.24-01.46.53:363][  0]LogAssetRegistry: Asset discovery search completed in 153.4745 seconds
+[2022.09.24-01.46.53:387][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2022.09.24-01.46.53:489][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.09.24-01.46.53:889][  0]LogSlate: Took 0.000282 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.09.24-01.46.55:794][  2]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.09.24-01.47.12:109][945]LogSlate: Took 0.026554 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.09.24-01.47.12:350][945]LogSlate: Took 0.049344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.24-01.47.17:370][278]LogSlate: Window 'New Level' being destroyed
+[2022.09.24-01.47.17:447][278]LightingResults: New page: Lighting Build
+[2022.09.24-01.47.17:545][278]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-01.47.17:545][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-01.47.17:565][278]MapCheck: New page: Map Check
+[2022.09.24-01.47.17:565][278]LightingResults: New page: Lighting Build
+[2022.09.24-01.47.17:592][278]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.24-01.47.17:669][278]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.09.24-01.47.17:686][278]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.24-01.47.17:686][278]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-01.47.17:687][278]LogAIModule: Creating AISystem for world Untitled
+[2022.09.24-01.47.17:713][278]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.09.24-01.47.17:777][278]LoadErrors: New page: New Map
+[2022.09.24-01.47.24:192][624]LogSlate: Window 'Save Level As' being destroyed
+[2022.09.24-01.47.29:001][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.09.24-01.47.29:001][153]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/2dlevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.24-01.47.29:002][153]LightingResults: New page: Lighting Build
+[2022.09.24-01.47.29:002][153]LoadErrors: New page: Loading map: 2dlevel.umap
+[2022.09.24-01.47.29:003][153]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-01.47.29:003][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-01.47.29:004][153]MapCheck: New page: Map Check
+[2022.09.24-01.47.29:004][153]LightingResults: New page: Lighting Build
+[2022.09.24-01.47.29:010][153]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.24-01.47.29:011][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.09.24-01.47.29:013][153]LogAudio: Display: Audio Device (ID: 1) registered with world '2dlevel'.
+[2022.09.24-01.47.29:013][153]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.24-01.47.29:013][153]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-01.47.29:014][153]LogAIModule: Creating AISystem for world 2dlevel
+[2022.09.24-01.47.29:033][153]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.24-01.47.29:040][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.09.24-01.47.29:045][153]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.24-01.47.29:045][153]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.064ms to complete.
+[2022.09.24-01.47.29:045][153]LogFileHelpers: Loading map '2dlevel' took 0.043
+[2022.09.24-01.47.29:063][153]LogSlate: Window 'Open Level' being destroyed
+[2022.09.24-01.49.36:668][916]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2022.09.24-01.49.36:668][916]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2022.09.24-01.50.23:190][815]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.24-01.50.23:190][815]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.24-01.50.39:106][317]LogTexture: Display: Building textures: /Game/PNG/environment/props/big-crate.big-crate (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Fast
+[2022.09.24-01.50.39:106][317]LogTexture: Display: Building textures: /Game/PNG/environment/props/block.block (BGRA8, 16X16 X1X1) (Required Memory Estimate: 0.004883 MB), EncodeSpeed: Fast
+[2022.09.24-01.50.39:106][317]LogTexture: Display: Building textures: /Game/PNG/environment/layers/back.back (BGRA8, 384X240 X1X1) (Required Memory Estimate: 1.757812 MB), EncodeSpeed: Fast
+[2022.09.24-01.50.39:106][317]LogTexture: Display: Building textures: /Game/PNG/environment/props/block-big.block-big (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Fast
+[2022.09.24-01.50.39:106][317]LogTexture: Display: Building textures: /Game/PNG/environment/props/crate.crate (BGRA8, 16X16 X1X1) (Required Memory Estimate: 0.004883 MB), EncodeSpeed: Fast
+[2022.09.24-01.50.39:141][318]LogTexture: Display: Building textures: /Game/PNG/environment/props/face-block.face-block (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Fast
+[2022.09.24-01.50.39:141][318]LogTexture: Display: Building textures: /Game/PNG/spritesheets/frog-idle.frog-idle (BGRA8, 140X32 X1X1) (Required Memory Estimate: 0.085449 MB), EncodeSpeed: Fast
+[2022.09.24-01.50.39:141][318]LogTexture: Display: Building textures: /Game/PNG/sprites/item-feedback/item-feedback-1.item-feedback-1 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Fast
+[2022.09.24-01.50.39:141][318]LogTexture: Display: Building textures: /Game/PNG/sprites/item-feedback/item-feedback-2.item-feedback-2 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Fast
+[2022.09.24-01.50.39:141][318]LogTexture: Display: Building textures: /Game/PNG/sprites/item-feedback/item-feedback-3.item-feedback-3 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Fast
+[2022.09.24-01.50.39:141][318]LogTexture: Display: Building textures: /Game/PNG/sprites/item-feedback/item-feedback-4.item-feedback-4 (BGRA8, 32X32 X1X1) (Required Memory Estimate: 0.019531 MB), EncodeSpeed: Fast
+[2022.09.24-01.50.39:141][318]LogTexture: Display: Building textures: /Game/PNG/environment/layers/middle.middle (BGRA8, 176X368 X1X1) (Required Memory Estimate: 1.235352 MB), EncodeSpeed: Fast
+[2022.09.24-01.50.39:141][318]LogTexture: Display: Building textures: /Game/PNG/sprites/opossum/opossum-1.opossum-1 (BGRA8, 36X28 X1X1) (Required Memory Estimate: 0.019226 MB), EncodeSpeed: Fast
+[2022.09.24-01.50.39:141][318]LogTexture: Display: Building textures: /Game/PNG/sprites/opossum/opossum-3.opossum-3 (BGRA8, 36X28 X1X1) (Required Memory Estimate: 0.019226 MB), EncodeSpeed: Fast
+[2022.09.24-01.50.39:141][318]LogTexture: Display: Building textures: /Game/PNG/sprites/opossum/opossum-2.opossum-2 (BGRA8, 36X28 X1X1) (Required Memory Estimate: 0.019226 MB), EncodeSpeed: Fast
+[2022.09.24-01.50.39:141][318]LogTexture: Display: Building textures: /Game/PNG/sprites/opossum/opossum-5.opossum-5 (BGRA8, 36X28 X1X1) (Required Memory Estimate: 0.019226 MB), EncodeSpeed: Fast
+[2022.09.24-01.50.39:141][318]LogTexture: Display: Building textures: /Game/PNG/sprites/opossum/opossum-4.opossum-4 (BGRA8, 36X28 X1X1) (Required Memory Estimate: 0.019226 MB), EncodeSpeed: Fast
+[2022.09.24-01.50.39:141][318]LogTexture: Display: Building textures: /Game/PNG/spritesheets/oposum.oposum (BGRA8, 216X28 X1X1) (Required Memory Estimate: 0.115356 MB), EncodeSpeed: Fast
+[2022.09.24-01.50.39:141][318]LogTexture: Display: Building textures: /Game/PNG/sprites/opossum/opossum-6.opossum-6 (BGRA8, 36X28 X1X1) (Required Memory Estimate: 0.019226 MB), EncodeSpeed: Fast
+[2022.09.24-01.50.39:141][318]LogTexture: Display: Building textures: /Game/PNG/spritesheets/player-idle.player-idle (BGRA8, 132X32 X1X1) (Required Memory Estimate: 0.080566 MB), EncodeSpeed: Fast
+[2022.09.24-01.50.39:141][318]LogTexture: Display: Building textures: /Game/PNG/environment/props/platform-long.platform-long (BGRA8, 32X16 X1X1) (Required Memory Estimate: 0.009766 MB), EncodeSpeed: Fast
+[2022.09.24-01.50.39:141][318]LogTexture: Display: Building textures: /Game/PNG/environment/props/small-platform.small-platform (BGRA8, 16X16 X1X1) (Required Memory Estimate: 0.004883 MB), EncodeSpeed: Fast
+[2022.09.24-01.50.39:141][318]LogTexture: Display: Building textures: /Game/PNG/environment/layers/props.props (BGRA8, 416X224 X1X1) (Required Memory Estimate: 1.777344 MB), EncodeSpeed: Fast
+[2022.09.24-01.50.39:162][319]LogTexture: Display: Building textures: /Game/PNG/environment/layers/tileset.tileset (BGRA8, 400X368 X1X1) (Required Memory Estimate: 2.807617 MB), EncodeSpeed: Fast
+[2022.09.24-01.50.39:162][319]LogTexture: Display: Building textures: /Game/PNG/environment/environment-preview.environment-preview (BGRA8, 1456X464 X1X1) (Required Memory Estimate: 12.885742 MB), EncodeSpeed: Fast
+[2022.09.24-01.51.08:111][ 32]LogContentBrowser: Attempting asset rename: PNG -> premadeSprites
+[2022.09.24-01.51.09:675][ 32]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.024498 seconds
+[2022.09.24-01.51.09:837][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/enemy-death/enemy-death-5
+[2022.09.24-01.51.09:837][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/enemy-death-51B3BE9554CD836DE287046B0F884887F.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/enemy-death/enemy-death-5.uasset'
+[2022.09.24-01.51.09:856][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/enemy-death/enemy-death-4
+[2022.09.24-01.51.09:856][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/enemy-death-412249CB0422F65E6433D20B894888E6B.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/enemy-death/enemy-death-4.uasset'
+[2022.09.24-01.51.09:870][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/enemy-death/enemy-death-3
+[2022.09.24-01.51.09:870][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/enemy-death-38A9C2201401B3A69DED24B86DF908D9F.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/enemy-death/enemy-death-3.uasset'
+[2022.09.24-01.51.09:898][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/enemy-death/enemy-death-2
+[2022.09.24-01.51.09:898][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/enemy-death-2BF9ADC2C45731CC18422D2A5A7303F31.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/enemy-death/enemy-death-2.uasset'
+[2022.09.24-01.51.09:902][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/enemy-death/enemy-death-1
+[2022.09.24-01.51.09:902][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/enemy-death-1874042FA43516C71CF186C8C7BC9BC89.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/enemy-death/enemy-death-1.uasset'
+[2022.09.24-01.51.09:905][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/spritesheets/enemy-deadth
+[2022.09.24-01.51.09:905][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/enemy-deadth7654F090438942448B6F4DB820CEB06B.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/spritesheets/enemy-deadth.uasset'
+[2022.09.24-01.51.09:923][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/eagle/eagle-attack-4
+[2022.09.24-01.51.09:923][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/eagle-attack-45D3E7A334EDA08015F4F3B8BBBDACDEA.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/eagle/eagle-attack-4.uasset'
+[2022.09.24-01.51.09:928][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/eagle/eagle-attack-3
+[2022.09.24-01.51.09:928][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/eagle-attack-357192B15436AA54ED6F0B992E6AF4F50.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/eagle/eagle-attack-3.uasset'
+[2022.09.24-01.51.09:932][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/eagle/eagle-attack-2
+[2022.09.24-01.51.09:932][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/eagle-attack-2B432E3A745126257F0AC268FD9013707.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/eagle/eagle-attack-2.uasset'
+[2022.09.24-01.51.09:936][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/eagle/eagle-attack-1
+[2022.09.24-01.51.09:936][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/eagle-attack-11C16A01044EBE815260483870D847C62.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/eagle/eagle-attack-1.uasset'
+[2022.09.24-01.51.09:940][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/spritesheets/eagle-attack
+[2022.09.24-01.51.09:940][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/eagle-attackBC25917B40422A44744F68B7D0713308.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/spritesheets/eagle-attack.uasset'
+[2022.09.24-01.51.09:954][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/environment/props/door-opened
+[2022.09.24-01.51.09:954][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/door-opened6748CB254C84B10FBF61F0B09615FF5D.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/environment/props/door-opened.uasset'
+[2022.09.24-01.51.09:958][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/environment/props/door
+[2022.09.24-01.51.09:958][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/door0BB7531E49EA30846B0FB19538328F73.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/environment/props/door.uasset'
+[2022.09.24-01.51.09:960][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/environment/props/crate
+[2022.09.24-01.51.09:960][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/crateE6D794ED4E81949CB1D1889E96B56470.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/environment/props/crate.uasset'
+[2022.09.24-01.51.09:966][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/environment/props/crank-up
+[2022.09.24-01.51.09:966][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/crank-up3D1ED16F40252A16F92BF288C1F7B8A2.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/environment/props/crank-up.uasset'
+[2022.09.24-01.51.09:968][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/environment/props/crank-down
+[2022.09.24-01.51.09:968][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/crank-down02070A0F4A8F079B44231B884C7CC7BE.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/environment/props/crank-down.uasset'
+[2022.09.24-01.51.09:972][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/cherry/cherry-7
+[2022.09.24-01.51.09:972][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/cherry-718DFDC7842119727A9F352BD5B49BECA.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/cherry/cherry-7.uasset'
+[2022.09.24-01.51.09:975][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/cherry/cherry-6
+[2022.09.24-01.51.09:975][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/cherry-64E80394941EF42138E9726BEF824A57A.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/cherry/cherry-6.uasset'
+[2022.09.24-01.51.09:980][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/cherry/cherry-5
+[2022.09.24-01.51.09:980][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/cherry-5CF40E89C4781A63CEBFEFB8434A59164.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/cherry/cherry-5.uasset'
+[2022.09.24-01.51.09:984][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/cherry/cherry-4
+[2022.09.24-01.51.09:984][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/cherry-453DF9A184678810C0B618CA3060006A6.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/cherry/cherry-4.uasset'
+[2022.09.24-01.51.09:987][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/cherry/cherry-3
+[2022.09.24-01.51.09:988][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/cherry-34586890B4E405C837E9C2B931C7F4720.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/cherry/cherry-3.uasset'
+[2022.09.24-01.51.09:991][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/cherry/cherry-2
+[2022.09.24-01.51.09:991][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/cherry-2819AEF344EEE30AEBB329A90174A4265.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/cherry/cherry-2.uasset'
+[2022.09.24-01.51.09:995][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/cherry/cherry-1
+[2022.09.24-01.51.09:995][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/cherry-1FB3CCFE64C29E8F2D1504BA59FDCB553.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/cherry/cherry-1.uasset'
+[2022.09.24-01.51.09:999][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/spritesheets/cherry
+[2022.09.24-01.51.09:999][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/cherry26D9AF4542E8BCF15024F5BB4F03F8C8.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/spritesheets/cherry.uasset'
+[2022.09.24-01.51.10:018][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/environment/props/bush
+[2022.09.24-01.51.10:018][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/bush303CD81542F94F70E1442BA54507A703.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/environment/props/bush.uasset'
+[2022.09.24-01.51.10:021][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/environment/props/block-big
+[2022.09.24-01.51.10:021][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/block-bigFD95A5C843604900C8BE7283A2767FA0.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/environment/props/block-big.uasset'
+[2022.09.24-01.51.10:040][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/environment/props/block
+[2022.09.24-01.51.10:040][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/block50D2127F4BE488786D147B836F3000BE.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/environment/props/block.uasset'
+[2022.09.24-01.51.10:044][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/environment/props/big-crate
+[2022.09.24-01.51.10:044][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/big-crateA54E3DF841F0D6D8C042AFAFDA55D22D.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/environment/props/big-crate.uasset'
+[2022.09.24-01.51.10:049][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/environment/layers/back
+[2022.09.24-01.51.10:049][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/back8051135F42082A933D2921A8480DE3A7.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/environment/layers/back.uasset'
+[2022.09.24-01.51.10:053][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/enemy-death/enemy-death-6
+[2022.09.24-01.51.10:053][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/enemy-death-6C0A06FF240C5B3B312F3BF9D55FA8586.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/enemy-death/enemy-death-6.uasset'
+[2022.09.24-01.51.10:116][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/environment/environment-preview
+[2022.09.24-01.51.10:116][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/environment-preview00D12A8F496742EA4DA5D6A265352F3E.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/environment/environment-preview.uasset'
+[2022.09.24-01.51.10:120][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/environment/props/face-block
+[2022.09.24-01.51.10:120][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/face-block443C20074BF57C14F3A37A88458387E9.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/environment/props/face-block.uasset'
+[2022.09.24-01.51.10:123][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/spritesheets/frog-idle
+[2022.09.24-01.51.10:123][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/frog-idle1C3B752046B5800F6FA2FFAA68D506B4.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/spritesheets/frog-idle.uasset'
+[2022.09.24-01.51.10:152][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/frog/idle/frog-idle-1
+[2022.09.24-01.51.10:152][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/frog-idle-19624B81A4E49D0A1E4B268B499E97B43.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/frog/idle/frog-idle-1.uasset'
+[2022.09.24-01.51.10:156][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/frog/idle/frog-idle-2
+[2022.09.24-01.51.10:157][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/frog-idle-24B31A47C465352C4D1B9528F70CC1589.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/frog/idle/frog-idle-2.uasset'
+[2022.09.24-01.51.10:160][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/frog/idle/frog-idle-3
+[2022.09.24-01.51.10:160][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/frog-idle-3248397CA47DA4A084E2CA0869C6C9568.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/frog/idle/frog-idle-3.uasset'
+[2022.09.24-01.51.10:165][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/frog/idle/frog-idle-4
+[2022.09.24-01.51.10:165][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/frog-idle-4DC371BA44F88C2E265C1FFB6A6CD61EB.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/frog/idle/frog-idle-4.uasset'
+[2022.09.24-01.51.10:168][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/spritesheets/frog-jump
+[2022.09.24-01.51.10:168][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/frog-jumpBFB1C5684523451BB8A45B84DC32131B.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/spritesheets/frog-jump.uasset'
+[2022.09.24-01.51.10:172][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/frog/jump/frog-jump-1
+[2022.09.24-01.51.10:172][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/frog-jump-15B48429B4BA96F26D3A3C198CC1598B9.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/frog/jump/frog-jump-1.uasset'
+[2022.09.24-01.51.10:175][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/frog/jump/frog-jump-2
+[2022.09.24-01.51.10:176][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/frog-jump-2099F1B234DA05E5FD27015BE3F193CB5.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/frog/jump/frog-jump-2.uasset'
+[2022.09.24-01.51.10:180][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/spritesheets/gem
+[2022.09.24-01.51.10:180][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/gemE95398774BAE0C4782DCB2BBBE0C9783.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/spritesheets/gem.uasset'
+[2022.09.24-01.51.10:184][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/gem/gem-1
+[2022.09.24-01.51.10:184][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/gem-189DB5DCC4EBD68EAB1373790E651B659.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/gem/gem-1.uasset'
+[2022.09.24-01.51.10:187][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/gem/gem-2
+[2022.09.24-01.51.10:187][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/gem-256784C5B474201A5813931BEFAD903C0.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/gem/gem-2.uasset'
+[2022.09.24-01.51.10:191][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/gem/gem-3
+[2022.09.24-01.51.10:191][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/gem-3A184CABE491DCC384579E3AA4391706F.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/gem/gem-3.uasset'
+[2022.09.24-01.51.10:208][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/gem/gem-4
+[2022.09.24-01.51.10:208][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/gem-4CEB2CE4A4CE1549227AC969B29F6AED7.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/gem/gem-4.uasset'
+[2022.09.24-01.51.10:213][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/gem/gem-5
+[2022.09.24-01.51.10:213][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/gem-5F7B4D373415BB096863DA696B615F8AF.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/gem/gem-5.uasset'
+[2022.09.24-01.51.10:217][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/environment/props/house
+[2022.09.24-01.51.10:217][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/house68F525E64D6D36ABAEABE1A69A2AC402.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/environment/props/house.uasset'
+[2022.09.24-01.51.10:221][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/item-feedback/item-feedback-1
+[2022.09.24-01.51.10:221][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/item-feedback-1FA654E374CA72846086662BB2BFB382E.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/item-feedback/item-feedback-1.uasset'
+[2022.09.24-01.51.10:224][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/item-feedback/item-feedback-2
+[2022.09.24-01.51.10:224][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/item-feedback-23DD60AC248EB8D9358635DA2F74B9888.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/item-feedback/item-feedback-2.uasset'
+[2022.09.24-01.51.10:228][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/item-feedback/item-feedback-3
+[2022.09.24-01.51.10:229][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/item-feedback-350C618BD4807B51B04DC04A537929B0D.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/item-feedback/item-feedback-3.uasset'
+[2022.09.24-01.51.10:233][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/item-feedback/item-feedback-4
+[2022.09.24-01.51.10:233][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/item-feedback-4720D8CD84BFFD8186067FB8DE3237BB8.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/item-feedback/item-feedback-4.uasset'
+[2022.09.24-01.51.10:238][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/environment/layers/middle
+[2022.09.24-01.51.10:238][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/middle6FF5A4FC422415B1275F258FBFD20EF1.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/environment/layers/middle.uasset'
+[2022.09.24-01.51.10:241][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/opossum/opossum-1
+[2022.09.24-01.51.10:241][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/opossum-14159870847FFDC097C31F6BA2C595BBB.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/opossum/opossum-1.uasset'
+[2022.09.24-01.51.10:246][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/opossum/opossum-2
+[2022.09.24-01.51.10:246][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/opossum-2A3644E8C4795C007BA606C89E6C54712.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/opossum/opossum-2.uasset'
+[2022.09.24-01.51.10:250][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/opossum/opossum-3
+[2022.09.24-01.51.10:250][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/opossum-3CE7227D14A2760EE1ED31D98FA39A906.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/opossum/opossum-3.uasset'
+[2022.09.24-01.51.10:254][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/opossum/opossum-4
+[2022.09.24-01.51.10:254][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/opossum-4296B6FCB48663A71AF539B8A1760FC4B.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/opossum/opossum-4.uasset'
+[2022.09.24-01.51.10:257][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/opossum/opossum-5
+[2022.09.24-01.51.10:257][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/opossum-516C7705440CB4E56BFD41B95DCFF5457.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/opossum/opossum-5.uasset'
+[2022.09.24-01.51.10:261][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/opossum/opossum-6
+[2022.09.24-01.51.10:261][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/opossum-64A691A9A4F5F698338744188E27E4E54.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/opossum/opossum-6.uasset'
+[2022.09.24-01.51.10:266][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/spritesheets/oposum
+[2022.09.24-01.51.10:266][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/oposum3F2536624835CC42F3D18C88FF865E55.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/spritesheets/oposum.uasset'
+[2022.09.24-01.51.10:269][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/spritesheets/payer-run
+[2022.09.24-01.51.10:269][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/payer-run19C5D18E48C26500139477AA183F0551.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/spritesheets/payer-run.uasset'
+[2022.09.24-01.51.10:274][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/environment/props/platform-long
+[2022.09.24-01.51.10:274][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/platform-longFBC0DCA7472C806175AC66B7E1B6917A.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/environment/props/platform-long.uasset'
+[2022.09.24-01.51.10:278][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/spritesheets/player-climb
+[2022.09.24-01.51.10:278][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/player-climbD33DD110463227342913648B7E651941.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/spritesheets/player-climb.uasset'
+[2022.09.24-01.51.10:283][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/player/climb/player-climb-1
+[2022.09.24-01.51.10:283][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/player-climb-11ACD994F482537BFC77EB681B0742A57.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/player/climb/player-climb-1.uasset'
+[2022.09.24-01.51.10:288][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/player/climb/player-climb-2
+[2022.09.24-01.51.10:288][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/player-climb-24E26753446F6829E53E7768243B01227.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/player/climb/player-climb-2.uasset'
+[2022.09.24-01.51.10:292][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/player/climb/player-climb-3
+[2022.09.24-01.51.10:292][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/player-climb-3500602B84E96AF08F7ADF6A80258DF24.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/player/climb/player-climb-3.uasset'
+[2022.09.24-01.51.10:297][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/spritesheets/player-crouch
+[2022.09.24-01.51.10:297][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/player-crouch18D17C4F4DE695327365C5A7E2E07933.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/spritesheets/player-crouch.uasset'
+[2022.09.24-01.51.10:301][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/player/crouch/player-crouch-1
+[2022.09.24-01.51.10:301][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/player-crouch-12E08CB94405C90A5E8E00FB3CA594942.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/player/crouch/player-crouch-1.uasset'
+[2022.09.24-01.51.10:305][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/player/crouch/player-crouch-2
+[2022.09.24-01.51.10:305][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/player-crouch-249352CE74C10FD14D3C4558C683CF086.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/player/crouch/player-crouch-2.uasset'
+[2022.09.24-01.51.10:308][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/spritesheets/player-hurt
+[2022.09.24-01.51.10:308][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/player-hurt636B154F46262CFABF2B5FBC51155DE2.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/spritesheets/player-hurt.uasset'
+[2022.09.24-01.51.10:312][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/player/hurt/player-hurt-1
+[2022.09.24-01.51.10:312][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/player-hurt-1609C8F824E63923EDD4615A90C68A4BB.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/player/hurt/player-hurt-1.uasset'
+[2022.09.24-01.51.10:317][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/player/hurt/player-hurt-2
+[2022.09.24-01.51.10:317][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/player-hurt-26C1492774EAFBEA2A6D0C7A13AD95F1D.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/player/hurt/player-hurt-2.uasset'
+[2022.09.24-01.51.10:321][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/spritesheets/player-idle
+[2022.09.24-01.51.10:321][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/player-idleAFA8EDB84433E95C9688468B289C3AF3.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/spritesheets/player-idle.uasset'
+[2022.09.24-01.51.10:324][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/player/idle/player-idle-1
+[2022.09.24-01.51.10:324][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/player-idle-1A1569FBA40819D20D7041CBFF854900C.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/player/idle/player-idle-1.uasset'
+[2022.09.24-01.51.10:329][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/player/idle/player-idle-2
+[2022.09.24-01.51.10:329][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/player-idle-280E5238E4692F179BEDFE88EEE4E1F1F.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/player/idle/player-idle-2.uasset'
+[2022.09.24-01.51.10:333][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/player/idle/player-idle-3
+[2022.09.24-01.51.10:333][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/player-idle-3DCACCBCD47B57284EEBF53885F466ED8.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/player/idle/player-idle-3.uasset'
+[2022.09.24-01.51.10:337][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/player/idle/player-idle-4
+[2022.09.24-01.51.10:337][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/player-idle-4D0EE3F9A4CFC63A1EB25FAB7AF0C16AE.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/player/idle/player-idle-4.uasset'
+[2022.09.24-01.51.10:340][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/spritesheets/player-jump
+[2022.09.24-01.51.10:340][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/player-jump4CC7842847C3ECF89E82F9B8C5B58740.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/spritesheets/player-jump.uasset'
+[2022.09.24-01.51.10:344][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/player/jump/player-jump-1
+[2022.09.24-01.51.10:344][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/player-jump-158C6EA814A531C9C65432580852FE3D8.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/player/jump/player-jump-1.uasset'
+[2022.09.24-01.51.10:348][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/player/jump/player-jump-2
+[2022.09.24-01.51.10:348][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/player-jump-2B0223E744007BF039F01B5BC55E9C636.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/player/jump/player-jump-2.uasset'
+[2022.09.24-01.51.10:352][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/player/run/player-run-1
+[2022.09.24-01.51.10:352][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/player-run-138F0336548358C32A741AFAAB0D73734.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/player/run/player-run-1.uasset'
+[2022.09.24-01.51.10:356][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/player/run/player-run-2
+[2022.09.24-01.51.10:356][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/player-run-2810165374DD5494CC198F299894B0695.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/player/run/player-run-2.uasset'
+[2022.09.24-01.51.10:359][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/player/run/player-run-3
+[2022.09.24-01.51.10:359][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/player-run-3D8594E51417EBF28D77B74AB973B689D.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/player/run/player-run-3.uasset'
+[2022.09.24-01.51.10:364][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/player/run/player-run-4
+[2022.09.24-01.51.10:364][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/player-run-482FC1E934604B6477B50138E110F273B.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/player/run/player-run-4.uasset'
+[2022.09.24-01.51.10:368][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/player/run/player-run-5
+[2022.09.24-01.51.10:368][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/player-run-5A206FD3842A11D31DC911899B24425AA.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/player/run/player-run-5.uasset'
+[2022.09.24-01.51.10:371][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/sprites/player/run/player-run-6
+[2022.09.24-01.51.10:371][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/player-run-67E843E304F4351DFFF63A4B5027A8934.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/sprites/player/run/player-run-6.uasset'
+[2022.09.24-01.51.10:376][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/environment/layers/props
+[2022.09.24-01.51.10:376][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/props4B91949445689FFEDCAF32860D63E045.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/environment/layers/props.uasset'
+[2022.09.24-01.51.10:380][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/environment/props/rock
+[2022.09.24-01.51.10:380][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/rock35E3D03149FA2CD44C05B0AC1358D79E.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/environment/props/rock.uasset'
+[2022.09.24-01.51.10:384][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/environment/props/shrooms
+[2022.09.24-01.51.10:384][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/shrooms8DF28BBC418C7782E00A1B807E958955.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/environment/props/shrooms.uasset'
+[2022.09.24-01.51.10:387][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/environment/props/sign
+[2022.09.24-01.51.10:387][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/sign2C5DA0D748C605AE16374A9974174111.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/environment/props/sign.uasset'
+[2022.09.24-01.51.10:390][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/environment/props/skulls
+[2022.09.24-01.51.10:390][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/skulls6CE8EB1542757E117632098D2036A512.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/environment/props/skulls.uasset'
+[2022.09.24-01.51.10:393][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/environment/props/small-platform
+[2022.09.24-01.51.10:393][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/small-platformC41C0F5B44F49AA6F0F30E8FB7F488D2.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/environment/props/small-platform.uasset'
+[2022.09.24-01.51.10:397][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/environment/props/spike-skull
+[2022.09.24-01.51.10:398][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/spike-skull19A50A75476B01C380D3CCA9F5B79414.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/environment/props/spike-skull.uasset'
+[2022.09.24-01.51.10:403][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/environment/props/spikes
+[2022.09.24-01.51.10:403][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/spikes3CE6DD46417D85ED588B94A77E45A791.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/environment/props/spikes.uasset'
+[2022.09.24-01.51.10:406][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/environment/props/spikes-top
+[2022.09.24-01.51.10:406][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/spikes-topF8D91529458B9F48B3FA1291F1AA15B1.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/environment/props/spikes-top.uasset'
+[2022.09.24-01.51.10:413][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/environment/layers/tileset
+[2022.09.24-01.51.10:413][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/tileset8C12FEC74757E339592FC09D73F2126E.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/environment/layers/tileset.uasset'
+[2022.09.24-01.51.10:417][ 32]LogSavePackage: Moving output files for package: /Game/premadeSprites/environment/props/tree
+[2022.09.24-01.51.10:417][ 32]LogSavePackage: Moving '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Saved/tree6612059849858007AA400F9DBE138AD4.tmp' to '../../../../../Unreal Projects/GameJam/Praise-the-sun-gameJam/Pixel2dGame/Content/premadeSprites/environment/props/tree.uasset'
+[2022.09.24-01.51.10:954][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.09.24-01.51.10:962][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.09.24-01.51.10:968][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2022.09.24-01.51.11:145][ 32]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.24-01.51.11:145][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/enemy-death/enemy-death-5.enemy-death-5
+[2022.09.24-01.51.11:145][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/enemy-death/enemy-death-4.enemy-death-4
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/enemy-death/enemy-death-3.enemy-death-3
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/enemy-death/enemy-death-2.enemy-death-2
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/enemy-death/enemy-death-1.enemy-death-1
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/spritesheets/enemy-deadth.enemy-deadth
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/eagle/eagle-attack-4.eagle-attack-4
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/eagle/eagle-attack-3.eagle-attack-3
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/eagle/eagle-attack-2.eagle-attack-2
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/eagle/eagle-attack-1.eagle-attack-1
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/spritesheets/eagle-attack.eagle-attack
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/environment/props/door-opened.door-opened
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/environment/props/door.door
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/environment/props/crate.crate
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/environment/props/crank-up.crank-up
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/environment/props/crank-down.crank-down
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/cherry/cherry-7.cherry-7
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/cherry/cherry-6.cherry-6
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/cherry/cherry-5.cherry-5
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/cherry/cherry-4.cherry-4
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/cherry/cherry-3.cherry-3
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/cherry/cherry-2.cherry-2
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/cherry/cherry-1.cherry-1
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/spritesheets/cherry.cherry
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/environment/props/bush.bush
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/environment/props/block-big.block-big
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/environment/props/block.block
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/environment/props/big-crate.big-crate
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/environment/layers/back.back
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/enemy-death/enemy-death-6.enemy-death-6
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/environment/environment-preview.environment-preview
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/environment/props/face-block.face-block
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/spritesheets/frog-idle.frog-idle
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/frog/idle/frog-idle-1.frog-idle-1
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/frog/idle/frog-idle-2.frog-idle-2
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/frog/idle/frog-idle-3.frog-idle-3
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/frog/idle/frog-idle-4.frog-idle-4
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/spritesheets/frog-jump.frog-jump
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/frog/jump/frog-jump-1.frog-jump-1
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/frog/jump/frog-jump-2.frog-jump-2
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/spritesheets/gem.gem
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/gem/gem-1.gem-1
+[2022.09.24-01.51.11:146][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/gem/gem-2.gem-2
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/gem/gem-3.gem-3
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/gem/gem-4.gem-4
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/gem/gem-5.gem-5
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/environment/props/house.house
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/item-feedback/item-feedback-1.item-feedback-1
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/item-feedback/item-feedback-2.item-feedback-2
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/item-feedback/item-feedback-3.item-feedback-3
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/item-feedback/item-feedback-4.item-feedback-4
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/environment/layers/middle.middle
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/opossum/opossum-1.opossum-1
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/opossum/opossum-2.opossum-2
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/opossum/opossum-3.opossum-3
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/opossum/opossum-4.opossum-4
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/opossum/opossum-5.opossum-5
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/opossum/opossum-6.opossum-6
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/spritesheets/oposum.oposum
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/spritesheets/payer-run.payer-run
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/environment/props/platform-long.platform-long
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/spritesheets/player-climb.player-climb
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/player/climb/player-climb-1.player-climb-1
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/player/climb/player-climb-2.player-climb-2
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/player/climb/player-climb-3.player-climb-3
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/spritesheets/player-crouch.player-crouch
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/player/crouch/player-crouch-1.player-crouch-1
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/player/crouch/player-crouch-2.player-crouch-2
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/spritesheets/player-hurt.player-hurt
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/player/hurt/player-hurt-1.player-hurt-1
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/player/hurt/player-hurt-2.player-hurt-2
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/spritesheets/player-idle.player-idle
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/player/idle/player-idle-1.player-idle-1
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/player/idle/player-idle-2.player-idle-2
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/player/idle/player-idle-3.player-idle-3
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/player/idle/player-idle-4.player-idle-4
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/spritesheets/player-jump.player-jump
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/player/jump/player-jump-1.player-jump-1
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/player/jump/player-jump-2.player-jump-2
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/player/run/player-run-1.player-run-1
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/player/run/player-run-2.player-run-2
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/player/run/player-run-3.player-run-3
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/player/run/player-run-4.player-run-4
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/player/run/player-run-5.player-run-5
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/sprites/player/run/player-run-6.player-run-6
+[2022.09.24-01.51.11:147][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/environment/layers/props.props
+[2022.09.24-01.51.11:148][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/environment/props/rock.rock
+[2022.09.24-01.51.11:148][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/environment/props/shrooms.shrooms
+[2022.09.24-01.51.11:148][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/environment/props/sign.sign
+[2022.09.24-01.51.11:148][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/environment/props/skulls.skulls
+[2022.09.24-01.51.11:148][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/environment/props/small-platform.small-platform
+[2022.09.24-01.51.11:148][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/environment/props/spike-skull.spike-skull
+[2022.09.24-01.51.11:148][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/environment/props/spikes.spikes
+[2022.09.24-01.51.11:148][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/environment/props/spikes-top.spikes-top
+[2022.09.24-01.51.11:148][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/environment/layers/tileset.tileset
+[2022.09.24-01.51.11:148][ 32]LogContentValidation: Display: Validating Texture2D /Game/premadeSprites/environment/props/tree.tree
+[2022.09.24-01.51.34:746][355]LogEditorViewport: Clicking Background
+[2022.09.24-01.51.37:748][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.09.24-01.51.39:135][845]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
