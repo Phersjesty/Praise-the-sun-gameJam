@@ -1487,3 +1487,16 @@ Recommended: 516.25
 [2022.09.24-03.23.32:675][274]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
 [2022.09.24-03.23.32:680][274]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
 [2022.09.24-03.23.32:716][276]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.09.24-03.25.23:835][578]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_SpriteCharacter.BP_SpriteCharacter
+[2022.09.24-03.25.23:836][578]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-03.30.57:055][638]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.09.24-03.30.57:141][638]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.09.24-03.32.05:300][319]LogSlate: Window 'Project Settings' being destroyed
+[2022.09.24-03.32.05:304][319]LogSlate: Window 'Project Settings' being destroyed
+[2022.09.24-03.32.13:083][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.09.24-03.32.13:085][ 43]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/2dlevel' took 0.029
+[2022.09.24-03.32.13:085][ 43]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_SpriteCharacter] ([2] browsable assets)...
+[2022.09.24-03.32.13:085][ 43]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_SpriteCharacter]
+[2022.09.24-03.32.13:088][ 43]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_SpriteCharacter_Auto1
+[2022.09.24-03.32.13:088][ 43]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/BP_SpriteCharacter_Auto19F4F2DB640648B3098CB96BC7128D57B.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/Autosaves/Game/Blueprints/BP_SpriteCharacter_Auto1.uasset'
+[2022.09.24-03.32.13:089][ 43]LogFileHelpers: Auto-saving content packages took 0.004
