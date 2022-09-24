@@ -1051,3 +1051,85 @@ Recommended: 516.25
 [2022.09.24-03.05.39:255][368]LogOnline: OSS: Created online subsystem instance for: :Context_11
 [2022.09.24-03.05.39:256][368]PIE: Server logged in
 [2022.09.24-03.05.39:256][368]PIE: Play in editor total start time 0.121 seconds.
+[2022.09.24-03.06.44:403][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.24-03.06.44:403][ 17]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_2dlevel
+[2022.09.24-03.06.44:403][ 17]LogWorld: UWorld::CleanupWorld for 2dlevel, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-03.06.44:403][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-03.06.44:416][ 17]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.24-03.06.44:419][ 17]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-03.06.44:436][ 17]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.24-03.06.44:436][ 17]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.09.24-03.06.44:437][ 17]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.09.24-03.06.44:441][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.24-03.06.44:442][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.09.24-03.06.44:498][ 18]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.09.24-03.06.46:753][264]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.09.24-03.06.46:757][264]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.24-03.06.46:758][264]PIE: New page: PIE session: 2dlevel (Sep 23, 2022, 5:06:46 PM)
+[2022.09.24-03.06.46:793][264]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_2dlevel
+[2022.09.24-03.06.46:793][264]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000891s)
+[2022.09.24-03.06.46:793][264]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/2dlevel.2dlevel to /Game/Maps/UEDPIE_0_2dlevel.2dlevel (0.000980s)
+[2022.09.24-03.06.46:794][264]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.24-03.06.46:794][264]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-03.06.46:794][264]LogAIModule: Creating AISystem for world 2dlevel
+[2022.09.24-03.06.46:794][264]LogPlayLevel: PIE: World Init took: (0.000577s)
+[2022.09.24-03.06.46:812][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.09.24-03.06.46:814][264]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.09.24-03.06.46:814][264]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.24-03.06.46:814][264]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.24-03.06.46:814][264]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.24-03.06.46:814][264]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.24-03.06.46:814][264]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.24-03.06.46:814][264]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.09.24-03.06.46:814][264]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.24-03.06.46:814][264]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.24-03.06.46:814][264]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.24-03.06.46:814][264]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.24-03.06.46:814][264]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.24-03.06.46:816][264]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.09.24-03.06.46:841][264]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G935/G933s Gaming Headset)
+[2022.09.24-03.06.46:841][264]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.24-03.06.46:841][264]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.24-03.06.46:841][264]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.24-03.06.46:841][264]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2022.09.24-03.06.46:841][264]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=4
+[2022.09.24-03.06.46:843][264]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2022.09.24-03.06.46:843][264]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2022.09.24-03.06.46:843][264]LogInit: FAudioDevice initialized.
+[2022.09.24-03.06.46:843][264]LogAudio: Display: Audio Device (ID: 4) registered with world '2dlevel'.
+[2022.09.24-03.06.46:855][264]LogLoad: Game class is 'GameModeBase'
+[2022.09.24-03.06.46:856][264]LogWorld: Bringing World /Game/Maps/UEDPIE_0_2dlevel.2dlevel up for play (max tick rate 0) at 2022.09.23-22.06.46
+[2022.09.24-03.06.46:856][264]LogWorld: Bringing up level for play took: 0.000499
+[2022.09.24-03.06.46:857][264]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2022.09.24-03.06.46:858][264]PIE: Server logged in
+[2022.09.24-03.06.46:859][264]PIE: Play in editor total start time 0.101 seconds.
+[2022.09.24-03.06.47:904][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.24-03.06.47:904][376]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_2dlevel
+[2022.09.24-03.06.47:904][376]LogWorld: UWorld::CleanupWorld for 2dlevel, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-03.06.47:904][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-03.06.47:912][376]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.24-03.06.47:916][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-03.06.47:933][376]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.24-03.06.47:933][376]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.09.24-03.06.47:934][376]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2022.09.24-03.06.47:937][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.24-03.06.47:939][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.09.24-03.06.48:003][378]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.09.24-03.06.51:807][817]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.09.24-03.06.51:904][817]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.09.24-03.07.01:772][447]LogSlate: Window 'Project Settings' being destroyed
+[2022.09.24-03.07.01:775][447]LogSlate: Window 'Project Settings' being destroyed
+[2022.09.24-03.07.12:236][641]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.09.24-03.07.12:322][641]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.09.24-03.07.26:435][551]LogSlate: Window 'Project Settings' being destroyed
+[2022.09.24-03.07.26:438][551]LogSlate: Window 'Project Settings' being destroyed
+[2022.09.24-03.07.39:591][956]LogEditorViewport: Clicking Background
+[2022.09.24-03.07.41:537][186]LogEditorViewport: Clicking Background
+[2022.09.24-03.07.51:736][547]LogEditorViewport: Clicking Background
+[2022.09.24-03.08.00:565][430]LogEditorViewport: Clicking Background
+[2022.09.24-03.08.02:837][697]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/2dlevel" FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Maps/2dlevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.24-03.08.02:892][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.09.24-03.08.02:896][697]LogSavePackage: Moving output files for package: /Game/Maps/2dlevel
+[2022.09.24-03.08.02:896][697]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/2dlevel981EC0FE4417CA7A20ED8391DF6E81F2.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Maps/2dlevel.umap'
+[2022.09.24-03.08.02:922][697]AssetCheck: New page: Asset Save: 2dlevel
+[2022.09.24-03.08.02:922][697]LogContentValidation: Display: Validating World /Game/Maps/2dlevel.2dlevel
