@@ -711,3 +711,441 @@ Recommended: 516.25
 [2022.09.24-06.11.52:957][  0]LogAssetRegistry: Asset discovery search completed in 6.8099 seconds
 [2022.09.24-06.11.52:965][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
 [2022.09.24-06.11.52:987][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.09.24-06.12.46:882][644]LogEditorViewport: Clicking Background
+[2022.09.24-06.12.48:110][786]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.24-06.12.48:121][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2022.09.24-06.13.11:892][213]LogEditorViewport: Clicking Background
+[2022.09.24-06.13.12:138][241]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.09.24-06.13.12:142][241]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.24-06.13.23:138][543]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/test.BP_SpriteCharacter
+[2022.09.24-06.13.23:139][543]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-06.13.24:164][543]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.09.24-06.13.24:265][544]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.09.24-06.13.24:296][545]LogEditorViewport: Clicking Background
+[2022.09.24-06.13.42:500][631]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.24-06.13.44:895][908]LogDerivedDataCache: C:/Users/Malik/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.066 and deleted 0 file(s) with total size 0 MiB.
+[2022.09.24-06.13.50:767][583]LogSlate: Took 0.000788 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.09.24-06.14.28:246][  9]LogViewport: Scene viewport resized to 1141x725, mode Windowed.
+[2022.09.24-06.14.31:647][394]LogEditorViewport: Clicking Background
+[2022.09.24-06.14.31:796][411]Cmd: SELECT NONE
+[2022.09.24-06.14.45:320][994]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/PauseMenuWidget.PauseMenuWidget
+[2022.09.24-06.14.45:321][994]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-06.14.45:327][994]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-06.14.45:331][994]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2022.09.24-06.14.45:649][994]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.24-06.14.45:649][994]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.24-06.14.45:710][994]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2022.09.24-06.14.48:318][266]LogSlate: Took 0.001202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.09.24-06.15.03:291][916]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.24-06.15.03:349][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.09.24-06.15.04:431][916]LogSlate: Window 'Save Content' being destroyed
+[2022.09.24-06.15.04:463][916]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PauseMenuWidget" FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/UI/PauseMenuWidget.uasset" SILENT=true
+[2022.09.24-06.15.04:470][916]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.007328 seconds
+[2022.09.24-06.15.04:483][916]LogSavePackage: Moving output files for package: /Game/UI/PauseMenuWidget
+[2022.09.24-06.15.04:484][916]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/PauseMenuWidget188612FE4CE6A50953C19AA75E26AB15.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/UI/PauseMenuWidget.uasset'
+[2022.09.24-06.15.04:505][917]AssetCheck: New page: Asset Save: PauseMenuWidget
+[2022.09.24-06.15.04:505][917]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/PauseMenuWidget.PauseMenuWidget
+[2022.09.24-06.16.50:639][892]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.24-06.16.50:694][892]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.09.24-06.16.51:864][892]LogSlate: Window 'Save Content' being destroyed
+[2022.09.24-06.16.51:895][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/test" FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/test.uasset" SILENT=true
+[2022.09.24-06.16.51:961][892]LogSavePackage: Moving output files for package: /Game/Blueprints/test
+[2022.09.24-06.16.51:962][892]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/test5F4E44004A1B965D82F8ACAB119C0EC1.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/test.uasset'
+[2022.09.24-06.16.51:984][893]AssetCheck: New page: Asset Save: BP_SpriteCharacter
+[2022.09.24-06.16.51:984][893]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/test.BP_SpriteCharacter
+[2022.09.24-06.17.51:920][862]LogEditorViewport: Clicking Background
+[2022.09.24-06.17.53:345][ 28]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Options_Menu_Widget.Options_Menu_Widget
+[2022.09.24-06.17.53:345][ 28]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-06.17.53:351][ 28]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-06.17.53:799][ 28]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.24-06.17.53:799][ 28]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.24-06.21.58:053][351]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.09.24-06.21.58:055][351]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainMenuLevel' took 0.054
+[2022.09.24-06.21.58:055][351]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/test] ([2] browsable assets)...
+[2022.09.24-06.21.58:055][351]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/test]
+[2022.09.24-06.21.58:072][351]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/test_Auto1
+[2022.09.24-06.21.58:073][351]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/test_Auto162F605044CCBE6DFBBD68DB392990C7A.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/Autosaves/Game/Blueprints/test_Auto1.uasset'
+[2022.09.24-06.21.58:074][351]LogFileHelpers: Auto-saving content packages took 0.019
+[2022.09.24-06.22.10:572][221]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.24-06.24.06:016][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/test" FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/test.uasset" SILENT=true
+[2022.09.24-06.24.06:033][458]LogSavePackage: Moving output files for package: /Game/Blueprints/test
+[2022.09.24-06.24.06:034][458]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/test91F695C94CE91B576F8394BE8E57972C.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/test.uasset'
+[2022.09.24-06.24.06:046][458]AssetCheck: New page: Asset Save: BP_SpriteCharacter
+[2022.09.24-06.24.06:046][458]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/test.BP_SpriteCharacter
+[2022.09.24-06.24.06:532][508]BlueprintLog: New page: Compile BP_SpriteCharacter
+[2022.09.24-06.24.06:536][508]LogBlueprint: Warning: [AssetLog] C:\Users\Malik\Documents\Unreal Projects\Pixel2dGame\Content\Blueprints\test.uasset: [Compiler] Get All Widgets Of Class  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2022.09.24-06.24.06:541][508]LogBlueprint: Error: [AssetLog] C:\Users\Malik\Documents\Unreal Projects\Pixel2dGame\Content\Blueprints\test.uasset: [Compiler] The current value of the ' Target Array ' pin is invalid: Array inputs (like 'Target Array') must have an input wired into them (try connecting a MakeArray node).
+[2022.09.24-06.24.06:605][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.09.24-06.25.28:769][715]BlueprintLog: New page: Compile BP_SpriteCharacter
+[2022.09.24-06.25.28:839][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.09.24-06.25.31:322][967]LogEditorViewport: Clicking Background
+[2022.09.24-06.31.55:260][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/test" FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/test.uasset" SILENT=true
+[2022.09.24-06.31.55:276][ 84]LogSavePackage: Moving output files for package: /Game/Blueprints/test
+[2022.09.24-06.31.55:277][ 84]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/testA5D62C844C98A5ACFA7E108EE771C44E.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/test.uasset'
+[2022.09.24-06.31.55:291][ 84]AssetCheck: New page: Asset Save: BP_SpriteCharacter
+[2022.09.24-06.31.55:291][ 84]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/test.BP_SpriteCharacter
+[2022.09.24-06.32.11:376][934]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.24-06.32.11:376][934]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.24-06.32.42:848][604]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.24-06.32.42:901][604]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.09.24-06.34.15:482][664]BlueprintLog: New page: Compile BP_SpriteCharacter
+[2022.09.24-06.34.15:552][664]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.09.24-06.34.19:300][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.09.24-06.34.19:320][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/test" FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/test.uasset" SILENT=true
+[2022.09.24-06.34.19:336][ 82]LogSavePackage: Moving output files for package: /Game/Blueprints/test
+[2022.09.24-06.34.19:337][ 82]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/test79C95C3A4285EC7C160C65BF0F63DE5C.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/test.uasset'
+[2022.09.24-06.34.19:350][ 82]AssetCheck: New page: Asset Save: BP_SpriteCharacter
+[2022.09.24-06.34.19:350][ 82]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/test.BP_SpriteCharacter
+[2022.09.24-06.34.19:805][137]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.24-06.34.19:851][137]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.09.24-06.35.06:779][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.09.24-06.35.06:781][108]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainMenuLevel' took 0.045
+[2022.09.24-06.35.06:781][108]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/test] ([2] browsable assets)...
+[2022.09.24-06.35.06:781][108]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/test]
+[2022.09.24-06.35.06:797][108]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/test_Auto2
+[2022.09.24-06.35.06:797][108]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/test_Auto2CEA2ACB3420FF1D61F7AAF928E91BEE5.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/Autosaves/Game/Blueprints/test_Auto2.uasset'
+[2022.09.24-06.35.06:798][108]LogFileHelpers: Auto-saving content packages took 0.017
+[2022.09.24-06.36.40:629][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.09.24-06.36.40:658][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/test" FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/test.uasset" SILENT=true
+[2022.09.24-06.36.40:674][ 98]LogSavePackage: Moving output files for package: /Game/Blueprints/test
+[2022.09.24-06.36.40:675][ 98]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/test8B95E0FE4A2243066F2F74A11575F843.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/test.uasset'
+[2022.09.24-06.36.40:679][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Options_Menu_Widget" FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/UI/Options_Menu_Widget.uasset" SILENT=true
+[2022.09.24-06.36.40:705][ 98]LogSavePackage: Moving output files for package: /Game/UI/Options_Menu_Widget
+[2022.09.24-06.36.40:706][ 98]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/Options_Menu_Widget1C9E88C747BD0439D91DECA3A2EC56BA.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/UI/Options_Menu_Widget.uasset'
+[2022.09.24-06.36.40:716][ 98]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.24-06.36.40:716][ 98]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Options_Menu_Widget.Options_Menu_Widget
+[2022.09.24-06.36.40:718][ 98]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/test.BP_SpriteCharacter
+[2022.09.24-06.36.42:185][273]BlueprintLog: New page: Compile Options_Menu_Widget
+[2022.09.24-06.36.42:262][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.09.24-06.36.45:042][582]LogEditorViewport: Clicking Background
+[2022.09.24-06.36.45:758][667]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.24-06.36.45:805][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.09.24-06.39.52:322][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.09.24-06.39.52:357][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PauseMenuWidget" FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/UI/PauseMenuWidget.uasset" SILENT=true
+[2022.09.24-06.39.52:371][883]LogSavePackage: Moving output files for package: /Game/UI/PauseMenuWidget
+[2022.09.24-06.39.52:371][883]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/PauseMenuWidgetFC61E7C54663CC1B923581BEFFC536A7.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/UI/PauseMenuWidget.uasset'
+[2022.09.24-06.39.52:375][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Options_Menu_Widget" FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/UI/Options_Menu_Widget.uasset" SILENT=true
+[2022.09.24-06.39.52:402][883]LogSavePackage: Moving output files for package: /Game/UI/Options_Menu_Widget
+[2022.09.24-06.39.52:403][883]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/Options_Menu_WidgetDF3EC05F4F4F9664DCB78FBEF773C9EE.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/UI/Options_Menu_Widget.uasset'
+[2022.09.24-06.39.52:415][883]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.24-06.39.52:415][883]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/Options_Menu_Widget.Options_Menu_Widget
+[2022.09.24-06.39.52:417][883]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/PauseMenuWidget.PauseMenuWidget
+[2022.09.24-06.40.06:508][522]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.24-06.40.06:557][522]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.09.24-06.40.20:005][804]LogEditorViewport: Clicking Background
+[2022.09.24-06.43.41:872][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.09.24-06.43.41:904][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/test" FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/test.uasset" SILENT=true
+[2022.09.24-06.43.41:921][152]LogSavePackage: Moving output files for package: /Game/Blueprints/test
+[2022.09.24-06.43.41:922][152]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/test6EF4A01D42A78D7FC92C389B3D2A8E65.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/test.uasset'
+[2022.09.24-06.43.41:935][152]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PauseMenuWidget" FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/UI/PauseMenuWidget.uasset" SILENT=true
+[2022.09.24-06.43.41:948][152]LogSavePackage: Moving output files for package: /Game/UI/PauseMenuWidget
+[2022.09.24-06.43.41:948][152]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/PauseMenuWidgetC66A355A472AA2EA12A167AAB8CD0BA3.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/UI/PauseMenuWidget.uasset'
+[2022.09.24-06.43.41:960][152]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.24-06.43.41:960][152]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/PauseMenuWidget.PauseMenuWidget
+[2022.09.24-06.43.41:960][152]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/test.BP_SpriteCharacter
+[2022.09.24-06.43.43:223][298]BlueprintLog: New page: Compile BP_SpriteCharacter
+[2022.09.24-06.43.43:294][298]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.09.24-06.43.45:498][541]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.24-06.43.45:545][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.09.24-06.44.08:754][857]LogEditorViewport: Clicking Background
+[2022.09.24-06.44.10:388][ 51]LogEditorViewport: Clicking Background
+[2022.09.24-06.44.33:111][470]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/test" FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/test.uasset" SILENT=true
+[2022.09.24-06.44.33:128][470]LogSavePackage: Moving output files for package: /Game/Blueprints/test
+[2022.09.24-06.44.33:129][470]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/testAAE6C3AE479E5276726EDB9A3D8FC347.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/test.uasset'
+[2022.09.24-06.44.33:141][470]AssetCheck: New page: Asset Save: BP_SpriteCharacter
+[2022.09.24-06.44.33:141][470]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/test.BP_SpriteCharacter
+[2022.09.24-06.44.34:020][560]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.09.24-06.44.34:451][609]BlueprintLog: New page: Compile BP_SpriteCharacter
+[2022.09.24-06.44.34:518][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.09.24-06.44.36:901][872]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.24-06.44.36:947][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2022.09.24-06.44.52:378][159]LogEditorViewport: Clicking Background
+[2022.09.24-06.45.17:771][966]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu/Main_Menu_Widget.Main_Menu_Widget
+[2022.09.24-06.45.17:771][966]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-06.45.17:776][966]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-06.45.18:088][966]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.24-06.45.18:088][966]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.09.24-06.45.41:305][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.09.24-06.45.41:332][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/test" FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/test.uasset" SILENT=true
+[2022.09.24-06.45.41:349][629]LogSavePackage: Moving output files for package: /Game/Blueprints/test
+[2022.09.24-06.45.41:349][629]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/test888CA53547392E5D7668AB94A26F571E.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/test.uasset'
+[2022.09.24-06.45.41:352][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/Main_Menu_Widget" FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/UI/MainMenu/Main_Menu_Widget.uasset" SILENT=true
+[2022.09.24-06.45.41:362][629]LogSavePackage: Moving output files for package: /Game/UI/MainMenu/Main_Menu_Widget
+[2022.09.24-06.45.41:363][629]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/Main_Menu_WidgetB9B8B3BE43B261DC1C5AB29FA167FB8C.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/UI/MainMenu/Main_Menu_Widget.uasset'
+[2022.09.24-06.45.41:377][629]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.24-06.45.41:377][629]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/Main_Menu_Widget.Main_Menu_Widget
+[2022.09.24-06.45.41:377][629]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/test.BP_SpriteCharacter
+[2022.09.24-06.45.42:675][778]BlueprintLog: New page: Compile Main_Menu_Widget
+[2022.09.24-06.45.42:770][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.09.24-06.45.44:669][978]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.24-06.45.44:720][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.09.24-06.49.34:644][398]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.24-06.50.24:503][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2022.09.24-06.50.24:531][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/test" FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/test.uasset" SILENT=true
+[2022.09.24-06.50.24:547][ 80]LogSavePackage: Moving output files for package: /Game/Blueprints/test
+[2022.09.24-06.50.24:548][ 80]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/test81CBA8D74079FD71205FD5BF2AAEE51C.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/test.uasset'
+[2022.09.24-06.50.24:554][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu/Main_Menu_Widget" FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/UI/MainMenu/Main_Menu_Widget.uasset" SILENT=true
+[2022.09.24-06.50.24:563][ 80]LogSavePackage: Moving output files for package: /Game/UI/MainMenu/Main_Menu_Widget
+[2022.09.24-06.50.24:564][ 80]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/Main_Menu_Widget7E9CBD4D4104813C26230A817A746261.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/UI/MainMenu/Main_Menu_Widget.uasset'
+[2022.09.24-06.50.24:576][ 80]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.24-06.50.24:576][ 80]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu/Main_Menu_Widget.Main_Menu_Widget
+[2022.09.24-06.50.24:577][ 80]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/test.BP_SpriteCharacter
+[2022.09.24-06.50.25:308][162]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.09.24-06.50.30:104][724]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.24-06.50.30:153][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.09.24-06.50.48:820][414]BlueprintLog: New page: Compile BP_SpriteCharacter
+[2022.09.24-06.50.48:896][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.09.24-06.50.50:017][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/test" FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/test.uasset" SILENT=true
+[2022.09.24-06.50.50:033][513]LogSavePackage: Moving output files for package: /Game/Blueprints/test
+[2022.09.24-06.50.50:034][513]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/test19372405496D2CAE30634F908B2F595F.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/test.uasset'
+[2022.09.24-06.50.50:044][513]AssetCheck: New page: Asset Save: BP_SpriteCharacter
+[2022.09.24-06.50.50:044][513]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/test.BP_SpriteCharacter
+[2022.09.24-06.50.51:771][713]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.24-06.50.51:822][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.09.24-06.51.25:357][446]BlueprintLog: New page: Compile BP_SpriteCharacter
+[2022.09.24-06.51.25:437][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.09.24-06.51.26:964][612]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.24-06.51.27:016][612]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.09.24-06.51.28:039][612]LogSlate: Window 'Save Content' being destroyed
+[2022.09.24-06.51.28:069][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/test" FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/test.uasset" SILENT=true
+[2022.09.24-06.51.28:085][612]LogSavePackage: Moving output files for package: /Game/Blueprints/test
+[2022.09.24-06.51.28:086][612]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/test5E0BC15A4DE3C8D7700299B3BEE22776.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/test.uasset'
+[2022.09.24-06.51.28:107][613]AssetCheck: New page: Asset Save: BP_SpriteCharacter
+[2022.09.24-06.51.28:107][613]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/test.BP_SpriteCharacter
+[2022.09.24-06.52.15:892][671]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.24-06.52.15:943][671]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2022.09.24-06.52.16:765][671]LogSlate: Window 'Save Content' being destroyed
+[2022.09.24-06.52.16:799][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/test" FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/test.uasset" SILENT=true
+[2022.09.24-06.52.16:816][671]LogSavePackage: Moving output files for package: /Game/Blueprints/test
+[2022.09.24-06.52.16:816][671]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/test95AEB06648D0B7ED377EF68FE192FD03.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/test.uasset'
+[2022.09.24-06.52.16:839][672]AssetCheck: New page: Asset Save: BP_SpriteCharacter
+[2022.09.24-06.52.16:839][672]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/test.BP_SpriteCharacter
+[2022.09.24-06.53.10:244][909]LogEditorViewport: Clicking Background
+[2022.09.24-06.53.16:088][603]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GM_Main_Menu.GM_Main_Menu
+[2022.09.24-06.53.16:088][603]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-06.53.18:057][789]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-06.53.18:057][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-06.53.18:096][789]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GM_Main_Menu.GM_Main_Menu
+[2022.09.24-06.53.18:097][789]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-06.53.20:894][ 75]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-06.53.20:894][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-06.53.22:143][212]LogEditorViewport: Clicking Background
+[2022.09.24-06.53.24:462][488]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GM_SideScroller.GM_SideScroller
+[2022.09.24-06.53.24:462][488]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-06.53.25:860][606]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-06.53.25:860][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-06.53.25:894][606]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/GM_SideScroller.GM_SideScroller
+[2022.09.24-06.53.25:894][606]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-06.53.28:216][835]LogSlate: Window 'GM_SideScroller' being destroyed
+[2022.09.24-06.53.28:220][835]LogSlate: Window 'GM_SideScroller' being destroyed
+[2022.09.24-06.53.28:226][835]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-06.53.28:226][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-06.53.28:310][835]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-06.53.28:310][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-06.53.28:319][835]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-06.53.28:319][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-06.53.28:371][835]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-06.53.28:371][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-06.53.28:380][835]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-06.53.28:380][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-06.53.28:433][835]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-06.53.28:433][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-06.53.28:442][835]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-06.53.28:442][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-06.53.28:489][835]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.09.24-06.53.28:489][835]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-06.53.28:489][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-06.53.29:220][913]LogEditorViewport: Clicking Background
+[2022.09.24-06.53.34:526][548]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PC_Main_Menu.PC_Main_Menu
+[2022.09.24-06.53.34:526][548]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-06.53.36:201][700]LogSlate: Window 'PC_Main_Menu' being destroyed
+[2022.09.24-06.53.36:209][700]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-06.53.36:209][700]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-06.53.36:247][700]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PC_Main_Menu.PC_Main_Menu
+[2022.09.24-06.53.36:247][700]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-06.53.37:148][760]LogSlate: Window 'PC_Main_Menu' being destroyed
+[2022.09.24-06.53.37:151][760]LogSlate: Window 'PC_Main_Menu' being destroyed
+[2022.09.24-06.53.37:155][760]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-06.53.37:155][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-06.53.46:854][896]LogEditorViewport: Clicking Background
+[2022.09.24-06.53.55:713][331]LogEditorViewport: Clicking Background
+[2022.09.24-06.53.58:871][707]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/test.BP_SpriteCharacter
+[2022.09.24-06.53.58:872][707]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-06.54.16:519][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/test" FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/test.uasset" SILENT=true
+[2022.09.24-06.54.16:536][649]LogSavePackage: Moving output files for package: /Game/Blueprints/test
+[2022.09.24-06.54.16:536][649]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/test9572137E474D028FF1408898D448C34F.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/test.uasset'
+[2022.09.24-06.54.16:550][649]AssetCheck: New page: Asset Save: BP_SpriteCharacter
+[2022.09.24-06.54.16:550][649]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/test.BP_SpriteCharacter
+[2022.09.24-06.54.17:855][797]LogSlate: Window 'BP_SpriteCharacter' being destroyed
+[2022.09.24-06.54.17:858][797]LogSlate: Window 'BP_SpriteCharacter' being destroyed
+[2022.09.24-06.54.17:862][797]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-06.54.17:862][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-06.54.26:607][788]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.09.24-06.54.26:698][788]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.09.24-06.55.01:861][772]LogSlate: Window 'Project Settings' being destroyed
+[2022.09.24-06.55.01:864][772]LogSlate: Window 'Project Settings' being destroyed
+[2022.09.24-06.55.03:763][992]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-956GTUH
+[2022.09.24-06.55.03:763][992]LogTurnkeySupport: Running Turnkey device detection: ' -ScriptsForProject="C:/Users/Malik/Documents/Unreal Projects/Pixel2dGame/Pixel2dGame.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Malik/Documents/Unreal Projects/Pixel2dGame/Intermediate/TurnkeyReport_1.log" -log="C:/Users/Malik/Documents/Unreal Projects/Pixel2dGame/Intermediate/TurnkeyLog_1.log" -project="C:/Users/Malik/Documents/Unreal Projects/Pixel2dGame/Pixel2dGame.uproject"  -Device=Win64@DESKTOP-956GTUH'
+[2022.09.24-06.55.03:763][992]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/Malik/Documents/Unreal Projects/Pixel2dGame/Pixel2dGame.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/Malik/Documents/Unreal Projects/Pixel2dGame/Intermediate/TurnkeyReport_1.log" -log="C:/Users/Malik/Documents/Unreal Projects/Pixel2dGame/Intermediate/TurnkeyLog_1.log" -project="C:/Users/Malik/Documents/Unreal Projects/Pixel2dGame/Pixel2dGame.uproject"  -Device=Win64@DESKTOP-956GTUH" -nocompile ]
+[2022.09.24-06.55.04:426][ 68]LogTurnkeySupport: Completed device detection: Code = 0
+[2022.09.24-06.55.04:426][ 68]LogTurnkeySupport: Turnkey Device: Win64@DESKTOP-956GTUH: (Name=DESKTOP-956GTUH, Status=Valid, Installed=10.0.19044.0, MinAllowed=10.0.18362.0, MaxAllowed=, Flags="Device_InstallSoftwareValid")
+[2022.09.24-06.55.10:334][663]LogSlate: Window 'Editor Preferences' being destroyed
+[2022.09.24-06.55.10:337][663]LogSlate: Window 'Editor Preferences' being destroyed
+[2022.09.24-06.55.13:090][890]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.24-06.55.28:638][697]LogEditorViewport: Clicking Background
+[2022.09.24-06.55.33:796][311]LogEditorViewport: Clicking Background
+[2022.09.24-06.55.50:479][274]LogEditorViewport: Clicking Background
+[2022.09.24-06.55.54:247][724]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.24-06.55.54:356][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.09.24-06.55.55:345][724]LogSlate: Window 'Save Content' being destroyed
+[2022.09.24-06.55.55:375][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GM_Main_Menu" FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/GM_Main_Menu.uasset" SILENT=true
+[2022.09.24-06.55.55:377][724]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_Main_Menu
+[2022.09.24-06.55.55:378][724]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/GM_Main_Menu65C39A634A8A43AC93E6A7B06915629F.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/GM_Main_Menu.uasset'
+[2022.09.24-06.55.55:415][725]AssetCheck: New page: Asset Save: GM_Main_Menu
+[2022.09.24-06.55.55:415][725]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GM_Main_Menu.GM_Main_Menu
+[2022.09.24-06.56.15:156][ 24]LogEditorViewport: Clicking Background
+[2022.09.24-06.56.20:136][613]LogEditorViewport: Clicking Background
+[2022.09.24-06.56.21:686][793]LogEditorViewport: Clicking Background
+[2022.09.24-06.56.24:653][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.09.24-06.56.24:703][132]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/2dlevel.2dlevel
+[2022.09.24-06.56.24:703][132]Cmd: MAP LOAD FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Maps/2dlevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.24-06.56.24:703][132]LightingResults: New page: Lighting Build
+[2022.09.24-06.56.24:704][132]LoadErrors: New page: Loading map: 2dlevel.umap
+[2022.09.24-06.56.24:705][132]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-06.56.24:705][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-06.56.24:705][132]MapCheck: New page: Map Check
+[2022.09.24-06.56.24:705][132]LightingResults: New page: Lighting Build
+[2022.09.24-06.56.24:724][132]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.24-06.56.24:729][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.09.24-06.56.24:735][132]LogWorld: UWorld::CleanupWorld for 2dlevel, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-06.56.24:736][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-06.56.24:755][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.09.24-06.56.24:775][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.09.24-06.56.24:779][132]LogAudio: Display: Audio Device (ID: 1) registered with world '2dlevel'.
+[2022.09.24-06.56.24:779][132]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.24-06.56.24:779][132]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-06.56.24:779][132]LogAIModule: Creating AISystem for world 2dlevel
+[2022.09.24-06.56.24:790][132]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.24-06.56.24:811][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.09.24-06.56.24:818][132]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.24-06.56.24:818][132]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.111ms to complete.
+[2022.09.24-06.56.24:818][132]LogFileHelpers: Loading map '2dlevel' took 0.116
+[2022.09.24-06.56.27:461][436]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.24-06.56.37:699][628]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/test.BP_SpriteCharacter_C
+[2022.09.24-06.56.37:699][628]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/test.BP_SpriteCharacter_C
+[2022.09.24-06.56.37:700][628]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/test.BP_SpriteCharacter as actor: BP_SpriteCharacter_C /Game/Maps/2dlevel.2dlevel:PersistentLevel.BP_SpriteCharacter_C_0
+[2022.09.24-06.56.37:701][628]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/test.BP_SpriteCharacter as actor: BP_SpriteCharacter_C /Game/Maps/2dlevel.2dlevel:PersistentLevel.BP_SpriteCharacter_C_0
+[2022.09.24-06.57.03:625][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/2dlevel" FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Maps/2dlevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.24-06.57.03:644][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.09.24-06.57.03:650][652]LogSavePackage: Moving output files for package: /Game/Maps/2dlevel
+[2022.09.24-06.57.03:651][652]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/2dlevelA5D26E244496B0B8159D9AAC6B029DD2.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Maps/2dlevel.umap'
+[2022.09.24-06.57.03:668][652]AssetCheck: New page: Asset Save: 2dlevel
+[2022.09.24-06.57.03:668][652]LogContentValidation: Display: Validating World /Game/Maps/2dlevel.2dlevel
+[2022.09.24-06.57.07:480][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.09.24-06.57.08:418][ 99]LogSlate: Window 'Save Content' being destroyed
+[2022.09.24-06.57.08:448][ 99]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/GM_SideScroller" FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/GM_SideScroller.uasset" SILENT=true
+[2022.09.24-06.57.08:451][ 99]LogSavePackage: Moving output files for package: /Game/Blueprints/GM_SideScroller
+[2022.09.24-06.57.08:451][ 99]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/GM_SideScrollerCB3A684C44F39317D5D38A99232994BE.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/GM_SideScroller.uasset'
+[2022.09.24-06.57.08:488][ 99]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainMenuLevel.MainMenuLevel
+[2022.09.24-06.57.08:488][ 99]Cmd: MAP LOAD FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Maps/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.24-06.57.08:488][ 99]LightingResults: New page: Lighting Build
+[2022.09.24-06.57.08:488][ 99]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2022.09.24-06.57.08:490][ 99]LogWorld: UWorld::CleanupWorld for 2dlevel, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-06.57.08:490][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-06.57.08:490][ 99]MapCheck: New page: Map Check
+[2022.09.24-06.57.08:490][ 99]LightingResults: New page: Lighting Build
+[2022.09.24-06.57.08:510][ 99]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.24-06.57.08:512][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.09.24-06.57.08:513][ 99]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-06.57.08:513][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-06.57.08:535][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.09.24-06.57.08:554][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.09.24-06.57.08:560][ 99]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuLevel'.
+[2022.09.24-06.57.08:560][ 99]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.24-06.57.08:560][ 99]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-06.57.08:560][ 99]LogAIModule: Creating AISystem for world MainMenuLevel
+[2022.09.24-06.57.08:571][ 99]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.24-06.57.08:592][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.09.24-06.57.08:600][ 99]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.24-06.57.08:600][ 99]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.138ms to complete.
+[2022.09.24-06.57.08:600][ 99]LogFileHelpers: Loading map 'MainMenuLevel' took 0.112
+[2022.09.24-06.57.08:631][ 99]AssetCheck: New page: Asset Save: GM_SideScroller
+[2022.09.24-06.57.08:631][ 99]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/GM_SideScroller.GM_SideScroller
+[2022.09.24-06.57.09:666][214]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.24-06.57.09:689][214]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.09.24-06.57.58:193][602]LogEditorViewport: Clicking Background
+[2022.09.24-06.57.59:660][771]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.24-06.58.00:258][842]LogEditorViewport: Clicking Background
+[2022.09.24-06.58.01:810][ 28]LogEditorViewport: Clicking Background
+[2022.09.24-06.58.04:327][329]LogEditorViewport: Clicking Background
+[2022.09.24-06.58.05:751][497]LogEditorViewport: Clicking Background
+[2022.09.24-06.58.07:091][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.09.24-06.58.07:128][654]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/2dlevel.2dlevel
+[2022.09.24-06.58.07:128][654]Cmd: MAP LOAD FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Maps/2dlevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.24-06.58.07:128][654]LightingResults: New page: Lighting Build
+[2022.09.24-06.58.07:128][654]LoadErrors: New page: Loading map: 2dlevel.umap
+[2022.09.24-06.58.07:129][654]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-06.58.07:129][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-06.58.07:129][654]MapCheck: New page: Map Check
+[2022.09.24-06.58.07:129][654]LightingResults: New page: Lighting Build
+[2022.09.24-06.58.07:149][654]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.24-06.58.07:151][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.09.24-06.58.07:152][654]LogWorld: UWorld::CleanupWorld for 2dlevel, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-06.58.07:152][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-06.58.07:173][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.09.24-06.58.07:193][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.09.24-06.58.07:197][654]LogAudio: Display: Audio Device (ID: 1) registered with world '2dlevel'.
+[2022.09.24-06.58.07:197][654]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.24-06.58.07:197][654]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-06.58.07:197][654]LogAIModule: Creating AISystem for world 2dlevel
+[2022.09.24-06.58.07:208][654]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.24-06.58.07:229][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.09.24-06.58.07:237][654]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.24-06.58.07:237][654]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.112ms to complete.
+[2022.09.24-06.58.07:237][654]LogFileHelpers: Loading map '2dlevel' took 0.109
+[2022.09.24-06.58.07:826][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.09.24-06.58.07:861][716]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainMenuLevel.MainMenuLevel
+[2022.09.24-06.58.07:861][716]Cmd: MAP LOAD FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Maps/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.24-06.58.07:862][716]LightingResults: New page: Lighting Build
+[2022.09.24-06.58.07:862][716]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2022.09.24-06.58.07:863][716]LogWorld: UWorld::CleanupWorld for 2dlevel, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-06.58.07:863][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-06.58.07:863][716]MapCheck: New page: Map Check
+[2022.09.24-06.58.07:863][716]LightingResults: New page: Lighting Build
+[2022.09.24-06.58.07:881][716]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.24-06.58.07:883][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.09.24-06.58.07:884][716]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-06.58.07:885][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-06.58.07:904][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.09.24-06.58.07:925][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2022.09.24-06.58.07:930][716]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuLevel'.
+[2022.09.24-06.58.07:930][716]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.24-06.58.07:930][716]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-06.58.07:930][716]LogAIModule: Creating AISystem for world MainMenuLevel
+[2022.09.24-06.58.07:941][716]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.24-06.58.07:961][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.09.24-06.58.07:969][716]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.24-06.58.07:969][716]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.112ms to complete.
+[2022.09.24-06.58.07:969][716]LogFileHelpers: Loading map 'MainMenuLevel' took 0.107
+[2022.09.24-06.58.08:804][811]LogEditorViewport: Clicking Background
+[2022.09.24-06.58.17:770][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.09.24-06.58.17:772][862]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainMenuLevel.MainMenuLevel
+[2022.09.24-06.58.17:772][862]Cmd: MAP LOAD FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Maps/MainMenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.24-06.58.17:772][862]LightingResults: New page: Lighting Build
+[2022.09.24-06.58.17:772][862]LoadErrors: New page: Loading map: MainMenuLevel.umap
+[2022.09.24-06.58.17:808][862]LogWorld: UWorld::CleanupWorld for MainMenuLevel, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-06.58.17:808][862]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-06.58.17:808][862]MapCheck: New page: Map Check
+[2022.09.24-06.58.17:808][862]LightingResults: New page: Lighting Build
+[2022.09.24-06.58.17:826][862]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.24-06.58.17:828][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.09.24-06.58.17:833][862]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenuLevel'.
+[2022.09.24-06.58.17:833][862]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.09.24-06.58.17:833][862]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-06.58.17:834][862]LogAIModule: Creating AISystem for world MainMenuLevel
+[2022.09.24-06.58.17:844][862]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.24-06.58.17:864][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.09.24-06.58.17:872][862]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.24-06.58.17:872][862]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.109ms to complete.
+[2022.09.24-06.58.17:872][862]LogFileHelpers: Loading map 'MainMenuLevel' took 0.100
+[2022.09.24-06.58.18:145][892]LogEditorViewport: Clicking Background
