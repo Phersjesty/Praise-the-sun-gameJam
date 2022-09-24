@@ -939,3 +939,200 @@ Recommended: 516.25
 [2022.09.24-08.58.33:720][385]AssetCheck: New page: Asset Save: BP_SpriteCharacter
 [2022.09.24-08.58.33:720][385]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/test.BP_SpriteCharacter
 [2022.09.24-08.58.48:554][720]LogEditorViewport: Clicking Background
+[2022.09.24-08.59.23:746][797]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.09.24-08.59.23:755][797]LogContentBrowser: Creating deferred item: NewFolder
+[2022.09.24-08.59.23:760][798]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.09.24-08.59.25:557][ 11]LogContentBrowser: Attempting asset rename: NewFolder -> Racoon
+[2022.09.24-08.59.25:558][ 11]LogContentBrowser: End creating deferred item NewFolder
+[2022.09.24-09.00.18:468][587]LogContentBrowser: Deferred new asset file creation: NewLandscapeGrassType
+[2022.09.24-09.00.18:472][587]LogContentBrowser: Creating deferred item: NewLandscapeGrassType
+[2022.09.24-09.00.18:514][589]LogContentBrowser: Renaming the item being created (Deferred Item: NewLandscapeGrassType).
+[2022.09.24-09.00.19:337][688]LogContentBrowser: Attempting asset rename: NewLandscapeGrassType -> NewLandscapeGrassType
+[2022.09.24-09.00.19:339][688]LogContentBrowser: End creating deferred item NewLandscapeGrassType
+[2022.09.24-09.00.19:769][740]Cmd: TRANSACTION UNDO
+[2022.09.24-09.00.19:769][740]LogEditorTransaction: Undo Edit Max Fly Speed
+[2022.09.24-09.00.21:708][916]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.24-09.00.21:708][916]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.24-09.00.22:069][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.09.24-09.00.22:886][955]LogSlate: Window 'Delete Assets' being destroyed
+[2022.09.24-09.00.22:909][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.09.24-09.00.22:926][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.09.24-09.00.22:944][955]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.09.24-09.00.28:567][ 72]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/thoma/Desktop/racoon 2.png)
+[2022.09.24-09.00.28:575][ 72]LogTexture: Display: Building textures: /Game/PlaySprites/Racoon/racoon_2.racoon_2 (BGRA8, 64X37 X1X1) (Required Memory Estimate: 0.045166 MB), EncodeSpeed: Fast
+[2022.09.24-09.00.28:575][ 72]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/thoma/Desktop/racoon.png)
+[2022.09.24-09.00.28:577][ 72]LogTexture: Display: Building textures: /Game/PlaySprites/Racoon/racoon.racoon (TFO_AutoDXT, 64X60 X1X1) (Required Memory Estimate: 0.073242 MB), EncodeSpeed: Fast
+[2022.09.24-09.00.35:416][858]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.24-09.00.35:416][858]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.24-09.00.35:835][906]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.24-09.00.35:835][906]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.24-09.00.48:246][613]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.24-09.00.48:246][613]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.24-09.00.55:616][462]LogEditorViewport: Clicking Background
+[2022.09.24-09.00.56:565][564]LogActorFactory: Actor Factory attempting to spawn PaperSprite /Game/PlaySprites/Racoon/racoon_Sprite1.racoon_Sprite1
+[2022.09.24-09.00.56:565][564]LogActorFactory: Actor Factory attempting to spawn PaperSprite /Game/PlaySprites/Racoon/racoon_Sprite1.racoon_Sprite1
+[2022.09.24-09.00.56:565][564]LogActorFactory: Actor Factory spawned PaperSprite /Game/PlaySprites/Racoon/racoon_Sprite1.racoon_Sprite1 as actor: PaperSpriteActor /Game/Maps/2dlevel.2dlevel:PersistentLevel.PaperSpriteActor_0
+[2022.09.24-09.00.56:565][564]LogActorFactory: Actor Factory spawned PaperSprite /Game/PlaySprites/Racoon/racoon_Sprite1.racoon_Sprite1 as actor: PaperSpriteActor /Game/Maps/2dlevel.2dlevel:PersistentLevel.PaperSpriteActor_0
+[2022.09.24-09.00.56:962][607]LogActorFactory: Actor Factory attempting to spawn PaperSprite /Game/PlaySprites/Racoon/racoon_Sprite1.racoon_Sprite1
+[2022.09.24-09.00.56:963][607]LogActorFactory: Actor Factory attempting to spawn PaperSprite /Game/PlaySprites/Racoon/racoon_Sprite1.racoon_Sprite1
+[2022.09.24-09.00.56:963][607]LogActorFactory: Actor Factory spawned PaperSprite /Game/PlaySprites/Racoon/racoon_Sprite1.racoon_Sprite1 as actor: PaperSpriteActor /Game/Maps/2dlevel.2dlevel:PersistentLevel.PaperSpriteActor_2
+[2022.09.24-09.00.56:963][607]LogActorFactory: Actor Factory spawned PaperSprite /Game/PlaySprites/Racoon/racoon_Sprite1.racoon_Sprite1 as actor: PaperSpriteActor /Game/Maps/2dlevel.2dlevel:PersistentLevel.PaperSpriteActor_2
+[2022.09.24-09.00.58:004][724]Cmd: TRANSACTION UNDO
+[2022.09.24-09.00.58:004][724]LogEditorTransaction: Undo Create Actors
+[2022.09.24-09.01.00:124][928]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.24-09.01.00:124][928]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.24-09.01.01:763][122]LogContentBrowser: Deferred new asset file creation: racoon1
+[2022.09.24-09.01.01:773][122]LogContentBrowser: Creating deferred item: racoon1
+[2022.09.24-09.01.01:780][123]LogContentBrowser: Renaming the item being created (Deferred Item: racoon1).
+[2022.09.24-09.01.13:237][481]LogContentBrowser: Attempting asset rename: racoon1 -> racoon_walk
+[2022.09.24-09.01.13:238][481]LogContentBrowser: End creating deferred item racoon1
+[2022.09.24-09.01.15:811][790]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/PlaySprites/Racoon/racoon_walk.racoon_walk
+[2022.09.24-09.01.15:812][790]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-09.01.15:893][790]LogViewport: Scene viewport resized to 1526x765, mode Windowed.
+[2022.09.24-09.01.15:917][790]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.24-09.01.17:483][967]LogSlate: Window 'racoon_walk' being destroyed
+[2022.09.24-09.01.17:489][967]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-09.01.17:489][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-09.01.19:416][192]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/PlaySprites/Racoon/racoon_walk.racoon_walk
+[2022.09.24-09.01.19:416][192]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-09.01.19:497][192]LogViewport: Scene viewport resized to 1526x765, mode Windowed.
+[2022.09.24-09.01.26:524][  1]Cmd: TRANSACTION UNDO
+[2022.09.24-09.01.26:524][  1]LogEditorTransaction: Undo Add Child
+[2022.09.24-09.01.34:415][886]LogSlate: Window 'racoon_walk' being destroyed
+[2022.09.24-09.01.34:421][886]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-09.01.34:421][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-09.01.39:238][441]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.24-09.01.39:238][441]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.24-09.01.39:609][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.09.24-09.01.40:703][481]LogSlate: Window 'Delete Assets' being destroyed
+[2022.09.24-09.01.40:727][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.09.24-09.01.40:744][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.09.24-09.01.40:762][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.09.24-09.01.48:351][353]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/PlaySprites/Racoon/racoon_Sprite1.racoon_Sprite1
+[2022.09.24-09.01.48:352][353]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-09.01.48:427][353]LogViewport: Scene viewport resized to 1526x902, mode Windowed.
+[2022.09.24-09.01.49:874][514]LogSlate: Window 'racoon_Sprite1' being destroyed
+[2022.09.24-09.01.49:881][514]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-09.01.49:881][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-09.01.51:348][687]LogEditorViewport: Clicking Background
+[2022.09.24-09.01.57:717][407]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.24-09.01.57:717][407]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.24-09.01.58:309][475]LogContentBrowser: Deferred new asset file creation: racoon1
+[2022.09.24-09.01.58:318][475]LogContentBrowser: Creating deferred item: racoon1
+[2022.09.24-09.01.58:323][476]LogContentBrowser: Renaming the item being created (Deferred Item: racoon1).
+[2022.09.24-09.02.02:429][957]LogContentBrowser: Attempting asset rename: racoon1 -> racoon_walk
+[2022.09.24-09.02.02:430][957]LogContentBrowser: End creating deferred item racoon1
+[2022.09.24-09.02.03:621][ 96]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/PlaySprites/Racoon/racoon_walk.racoon_walk
+[2022.09.24-09.02.03:622][ 96]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-09.02.03:697][ 96]LogViewport: Scene viewport resized to 1526x765, mode Windowed.
+[2022.09.24-09.02.07:749][571]LogSlate: Window 'racoon_walk' being destroyed
+[2022.09.24-09.02.07:754][571]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-09.02.07:755][571]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-09.02.18:610][859]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/test.BP_SpriteCharacter
+[2022.09.24-09.02.18:611][859]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-09.02.21:851][128]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2022.09.24-09.02.49:220][940]LogSlate: Window 'BP_SpriteCharacter' being destroyed
+[2022.09.24-09.02.49:229][940]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-09.02.49:229][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-09.03.00:673][262]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.24-09.03.00:673][262]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.24-09.03.01:042][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.09.24-09.03.01:770][302]LogSlate: Window 'Delete Assets' being destroyed
+[2022.09.24-09.03.01:794][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.09.24-09.03.01:812][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.09.24-09.03.01:830][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2022.09.24-09.03.04:972][656]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.24-09.03.04:972][656]LogSlateStyle: Warning: Unable to find Slate Widget Style 'Window.Buttons.Close'. Using FButtonStyle defaults instead.
+[2022.09.24-09.03.05:760][747]LogContentBrowser: Deferred new asset file creation: racoon_Flipbook
+[2022.09.24-09.03.05:821][747]LogContentBrowser: Creating deferred item: racoon_Flipbook
+[2022.09.24-09.03.05:830][748]LogContentBrowser: Renaming the item being created (Deferred Item: racoon_Flipbook).
+[2022.09.24-09.03.08:719][ 89]LogContentBrowser: Attempting asset rename: racoon_Flipbook -> racoon_idle
+[2022.09.24-09.03.08:719][ 89]LogContentBrowser: End creating deferred item racoon_Flipbook
+[2022.09.24-09.03.12:437][525]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/test.BP_SpriteCharacter
+[2022.09.24-09.03.12:438][525]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-09.03.24:858][602]BlueprintLog: New page: Compile BP_SpriteCharacter
+[2022.09.24-09.03.24:917][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.09.24-09.03.25:600][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/test" FILE="C:/Users/thoma/Desktop/Gamejam/Praise-the-sun-gameJam/Pixel2dGame/Content/Blueprints/test.uasset" SILENT=true
+[2022.09.24-09.03.25:618][660]LogSavePackage: Moving output files for package: /Game/Blueprints/test
+[2022.09.24-09.03.25:619][660]LogSavePackage: Moving 'C:/Users/thoma/Desktop/Gamejam/Praise-the-sun-gameJam/Pixel2dGame/Saved/test8CE4F219435862F0AA0E39A94480FDA0.tmp' to 'C:/Users/thoma/Desktop/Gamejam/Praise-the-sun-gameJam/Pixel2dGame/Content/Blueprints/test.uasset'
+[2022.09.24-09.03.25:631][660]AssetCheck: New page: Asset Save: BP_SpriteCharacter
+[2022.09.24-09.03.25:631][660]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/test.BP_SpriteCharacter
+[2022.09.24-09.03.26:239][713]LogSlate: Window 'BP_SpriteCharacter' being destroyed
+[2022.09.24-09.03.26:248][713]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-09.03.26:248][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-09.03.27:638][871]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.24-09.03.27:663][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.09.24-09.03.28:635][871]LogSlate: Window 'Save Content' being destroyed
+[2022.09.24-09.03.28:701][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaySprites/Racoon/racoon" FILE="C:/Users/thoma/Desktop/Gamejam/Praise-the-sun-gameJam/Pixel2dGame/Content/PlaySprites/Racoon/racoon.uasset" SILENT=true
+[2022.09.24-09.03.28:707][871]LogSavePackage: Moving output files for package: /Game/PlaySprites/Racoon/racoon
+[2022.09.24-09.03.28:707][871]LogSavePackage: Moving 'C:/Users/thoma/Desktop/Gamejam/Praise-the-sun-gameJam/Pixel2dGame/Saved/racoon166D6DA44E4165DBB8C3BABD2C3B3DE8.tmp' to 'C:/Users/thoma/Desktop/Gamejam/Praise-the-sun-gameJam/Pixel2dGame/Content/PlaySprites/Racoon/racoon.uasset'
+[2022.09.24-09.03.28:710][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaySprites/Racoon/racoon_2" FILE="C:/Users/thoma/Desktop/Gamejam/Praise-the-sun-gameJam/Pixel2dGame/Content/PlaySprites/Racoon/racoon_2.uasset" SILENT=true
+[2022.09.24-09.03.28:712][871]LogSavePackage: Moving output files for package: /Game/PlaySprites/Racoon/racoon_2
+[2022.09.24-09.03.28:712][871]LogSavePackage: Moving 'C:/Users/thoma/Desktop/Gamejam/Praise-the-sun-gameJam/Pixel2dGame/Saved/racoon_2F77CCD66432B0DFFF7D479B5823700E6.tmp' to 'C:/Users/thoma/Desktop/Gamejam/Praise-the-sun-gameJam/Pixel2dGame/Content/PlaySprites/Racoon/racoon_2.uasset'
+[2022.09.24-09.03.28:716][871]LogSavePackage: Moving output files for package: /Game/PlaySprites/Racoon/racoon_2_Sprite
+[2022.09.24-09.03.28:716][871]LogSavePackage: Moving 'C:/Users/thoma/Desktop/Gamejam/Praise-the-sun-gameJam/Pixel2dGame/Saved/racoon_2_Sprite32111CE34DB735AFDAE0899B8D7ED483.tmp' to 'C:/Users/thoma/Desktop/Gamejam/Praise-the-sun-gameJam/Pixel2dGame/Content/PlaySprites/Racoon/racoon_2_Sprite.uasset'
+[2022.09.24-09.03.28:719][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaySprites/Racoon/racoon_idle" FILE="C:/Users/thoma/Desktop/Gamejam/Praise-the-sun-gameJam/Pixel2dGame/Content/PlaySprites/Racoon/racoon_idle.uasset" SILENT=true
+[2022.09.24-09.03.28:720][871]LogSavePackage: Moving output files for package: /Game/PlaySprites/Racoon/racoon_idle
+[2022.09.24-09.03.28:720][871]LogSavePackage: Moving 'C:/Users/thoma/Desktop/Gamejam/Praise-the-sun-gameJam/Pixel2dGame/Saved/racoon_idle01C9562C4D7115683F4144B2233AC43E.tmp' to 'C:/Users/thoma/Desktop/Gamejam/Praise-the-sun-gameJam/Pixel2dGame/Content/PlaySprites/Racoon/racoon_idle.uasset'
+[2022.09.24-09.03.28:722][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaySprites/Racoon/racoon_Sprite" FILE="C:/Users/thoma/Desktop/Gamejam/Praise-the-sun-gameJam/Pixel2dGame/Content/PlaySprites/Racoon/racoon_Sprite.uasset" SILENT=true
+[2022.09.24-09.03.28:724][871]LogSavePackage: Moving output files for package: /Game/PlaySprites/Racoon/racoon_Sprite
+[2022.09.24-09.03.28:724][871]LogSavePackage: Moving 'C:/Users/thoma/Desktop/Gamejam/Praise-the-sun-gameJam/Pixel2dGame/Saved/racoon_Sprite6650078A4CEB968C74C4CEB511FEF8A0.tmp' to 'C:/Users/thoma/Desktop/Gamejam/Praise-the-sun-gameJam/Pixel2dGame/Content/PlaySprites/Racoon/racoon_Sprite.uasset'
+[2022.09.24-09.03.28:726][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaySprites/Racoon/racoon_walk" FILE="C:/Users/thoma/Desktop/Gamejam/Praise-the-sun-gameJam/Pixel2dGame/Content/PlaySprites/Racoon/racoon_walk.uasset" SILENT=true
+[2022.09.24-09.03.28:728][871]LogSavePackage: Moving output files for package: /Game/PlaySprites/Racoon/racoon_walk
+[2022.09.24-09.03.28:728][871]LogSavePackage: Moving 'C:/Users/thoma/Desktop/Gamejam/Praise-the-sun-gameJam/Pixel2dGame/Saved/racoon_walk8D7025B64E038EF66897F292A1BFA873.tmp' to 'C:/Users/thoma/Desktop/Gamejam/Praise-the-sun-gameJam/Pixel2dGame/Content/PlaySprites/Racoon/racoon_walk.uasset'
+[2022.09.24-09.03.28:750][872]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.24-09.03.28:750][872]LogContentValidation: Display: Validating PaperFlipbook /Game/PlaySprites/Racoon/racoon_walk.racoon_walk
+[2022.09.24-09.03.28:750][872]LogContentValidation: Display: Validating PaperSprite /Game/PlaySprites/Racoon/racoon_2_Sprite.racoon_2_Sprite
+[2022.09.24-09.03.28:750][872]LogContentValidation: Display: Validating PaperSprite /Game/PlaySprites/Racoon/racoon_Sprite.racoon_Sprite
+[2022.09.24-09.03.28:750][872]LogContentValidation: Display: Validating PaperFlipbook /Game/PlaySprites/Racoon/racoon_idle.racoon_idle
+[2022.09.24-09.03.28:750][872]LogContentValidation: Display: Validating Texture2D /Game/PlaySprites/Racoon/racoon.racoon
+[2022.09.24-09.03.28:750][872]LogContentValidation: Display: Validating Texture2D /Game/PlaySprites/Racoon/racoon_2.racoon_2
+[2022.09.24-09.03.49:182][209]LogEditorViewport: Clicking Background
+[2022.09.24-09.03.55:385][932]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/PlaySprites/player/run/player-run.player-run
+[2022.09.24-09.03.55:385][932]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-09.03.55:465][932]LogViewport: Scene viewport resized to 1526x765, mode Windowed.
+[2022.09.24-09.04.02:221][724]LogSlate: Window 'player-run' being destroyed
+[2022.09.24-09.04.02:231][724]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-09.04.02:231][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-09.04.12:178][891]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/PlaySprites/Racoon/racoon_walk.racoon_walk
+[2022.09.24-09.04.12:179][891]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-09.04.12:255][891]LogViewport: Scene viewport resized to 1526x765, mode Windowed.
+[2022.09.24-09.04.31:706][170]LogSlate: Window 'racoon_walk' being destroyed
+[2022.09.24-09.04.31:715][170]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-09.04.31:715][170]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-09.04.36:862][761]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/PlaySprites/player/run/player-run.player-run
+[2022.09.24-09.04.36:863][761]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-09.04.36:939][761]LogViewport: Scene viewport resized to 1526x765, mode Windowed.
+[2022.09.24-09.04.38:952][971]LogSlate: Window 'player-run' being destroyed
+[2022.09.24-09.04.38:962][971]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-09.04.38:962][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-09.04.39:341][ 13]LogEditorViewport: Clicking Background
+[2022.09.24-09.04.42:980][434]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/PlaySprites/Racoon/racoon_walk.racoon_walk
+[2022.09.24-09.04.42:980][434]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-09.04.43:055][434]LogViewport: Scene viewport resized to 1526x765, mode Windowed.
+[2022.09.24-09.04.56:756][  6]LogSlate: Window 'racoon_walk' being destroyed
+[2022.09.24-09.04.56:765][  6]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-09.04.56:766][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-09.04.59:445][311]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.24-09.04.59:474][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.09.24-09.05.00:260][311]LogSlate: Window 'Save Content' being destroyed
+[2022.09.24-09.05.00:286][311]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlaySprites/Racoon/racoon_walk" FILE="C:/Users/thoma/Desktop/Gamejam/Praise-the-sun-gameJam/Pixel2dGame/Content/PlaySprites/Racoon/racoon_walk.uasset" SILENT=true
+[2022.09.24-09.05.00:288][311]LogSavePackage: Moving output files for package: /Game/PlaySprites/Racoon/racoon_walk
+[2022.09.24-09.05.00:288][311]LogSavePackage: Moving 'C:/Users/thoma/Desktop/Gamejam/Praise-the-sun-gameJam/Pixel2dGame/Saved/racoon_walk2F73011A42FF1A95C879F2A8F454F3DA.tmp' to 'C:/Users/thoma/Desktop/Gamejam/Praise-the-sun-gameJam/Pixel2dGame/Content/PlaySprites/Racoon/racoon_walk.uasset'
+[2022.09.24-09.05.00:307][312]AssetCheck: New page: Asset Save: racoon_walk
+[2022.09.24-09.05.00:307][312]LogContentValidation: Display: Validating PaperFlipbook /Game/PlaySprites/Racoon/racoon_walk.racoon_walk
+[2022.09.24-09.05.25:022][506]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/test.BP_SpriteCharacter
+[2022.09.24-09.05.25:022][506]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-09.05.27:146][623]LogViewport: Scene viewport resized to 1141x693, mode Windowed.
+[2022.09.24-09.05.40:144][931]LogEditorTransaction: Undo Modify Component Scale
+[2022.09.24-09.05.46:209][417]LogSlate: Window 'BP_SpriteCharacter' being destroyed
+[2022.09.24-09.05.46:220][417]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-09.05.46:221][417]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-09.05.48:553][683]LogDebuggerCommands: Repeating last play command: Standalone Game
+[2022.09.24-09.05.48:577][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.09.24-09.05.49:484][683]LogSlate: Window 'Save Content' being destroyed
+[2022.09.24-09.05.49:544][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/test" FILE="C:/Users/thoma/Desktop/Gamejam/Praise-the-sun-gameJam/Pixel2dGame/Content/Blueprints/test.uasset" SILENT=true
+[2022.09.24-09.05.49:561][683]LogSavePackage: Moving output files for package: /Game/Blueprints/test
+[2022.09.24-09.05.49:562][683]LogSavePackage: Moving 'C:/Users/thoma/Desktop/Gamejam/Praise-the-sun-gameJam/Pixel2dGame/Saved/test3C83D8DB487A5B7FF94D419761DF9B3D.tmp' to 'C:/Users/thoma/Desktop/Gamejam/Praise-the-sun-gameJam/Pixel2dGame/Content/Blueprints/test.uasset'
+[2022.09.24-09.05.49:582][684]AssetCheck: New page: Asset Save: BP_SpriteCharacter
+[2022.09.24-09.05.49:582][684]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/test.BP_SpriteCharacter
