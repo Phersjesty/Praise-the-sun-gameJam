@@ -1557,3 +1557,176 @@ Recommended: 516.25
 [2022.09.24-03.36.05:589][938]LogContentValidation: Display: Validating PaperSprite /Game/premadeSprites/sprites/player/jump/player-jump-2_Sprite.player-jump-2_Sprite
 [2022.09.24-03.36.05:589][938]LogContentValidation: Display: Validating PaperFlipbook /Game/premadeSprites/sprites/player/jump/player-jump.player-jump
 [2022.09.24-03.36.08:066][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.09.24-03.37.18:450][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.09.24-03.37.19:109][673]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.09.24-03.37.19:401][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.09.24-03.37.51:631][764]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_SpriteCharacter.BP_SpriteCharacter
+[2022.09.24-03.37.51:631][764]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.09.24-03.39.31:983][159]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.24-03.42.47:415][478]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SpriteCharacter" FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/BP_SpriteCharacter.uasset" SILENT=true
+[2022.09.24-03.42.47:422][478]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SpriteCharacter
+[2022.09.24-03.42.47:422][478]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/BP_SpriteCharacterAB85943844B7C2DE9F06D197A0D838C4.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/BP_SpriteCharacter.uasset'
+[2022.09.24-03.42.47:433][478]AssetCheck: New page: Asset Save: BP_SpriteCharacter
+[2022.09.24-03.42.47:433][478]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_SpriteCharacter.BP_SpriteCharacter
+[2022.09.24-03.42.48:826][630]LogSlate: Window 'BP_SpriteCharacter' being destroyed
+[2022.09.24-03.42.48:835][630]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.09.24-03.42.48:835][630]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.24-03.43.22:779][627]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.09.24-03.43.22:789][627]LogContentBrowser: Creating deferred item: NewFolder
+[2022.09.24-03.43.22:797][628]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.09.24-03.43.24:970][889]LogContentBrowser: Attempting asset rename: NewFolder -> Player
+[2022.09.24-03.43.24:971][889]LogContentBrowser: End creating deferred item NewFolder
+[2022.09.24-03.43.34:017][868]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.09.24-03.43.34:031][868]LogContentBrowser: Creating deferred item: NewFolder
+[2022.09.24-03.43.34:040][869]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2022.09.24-03.43.36:384][148]LogContentBrowser: Attempting asset rename: NewFolder -> PlaySprites
+[2022.09.24-03.43.36:384][148]LogContentBrowser: End creating deferred item NewFolder
+[2022.09.24-03.43.42:053][825]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2022.09.24-03.43.42:053][825]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2022.09.24-03.44.09:008][  0]LogTexture: Display: Building textures: /Game/premadeSprites/sprites/player/climb/player-climb-3.player-climb-3 (BGRA8, 33X32 X1X1) (Required Memory Estimate: 0.020142 MB), EncodeSpeed: Fast
+[2022.09.24-03.44.09:008][  0]LogTexture: Display: Building textures: /Game/premadeSprites/sprites/player/climb/player-climb-2.player-climb-2 (BGRA8, 33X32 X1X1) (Required Memory Estimate: 0.020142 MB), EncodeSpeed: Fast
+[2022.09.24-03.44.09:008][  0]LogTexture: Display: Building textures: /Game/premadeSprites/sprites/player/climb/player-climb-1.player-climb-1 (BGRA8, 33X32 X1X1) (Required Memory Estimate: 0.020142 MB), EncodeSpeed: Fast
+[2022.09.24-03.44.09:008][  0]LogTexture: Display: Building textures: /Game/premadeSprites/sprites/player/crouch/player-crouch-2.player-crouch-2 (BGRA8, 33X32 X1X1) (Required Memory Estimate: 0.020142 MB), EncodeSpeed: Fast
+[2022.09.24-03.44.09:008][  0]LogTexture: Display: Building textures: /Game/premadeSprites/sprites/player/crouch/player-crouch-1.player-crouch-1 (BGRA8, 33X32 X1X1) (Required Memory Estimate: 0.020142 MB), EncodeSpeed: Fast
+[2022.09.24-03.44.09:008][  0]LogTexture: Display: Building textures: /Game/premadeSprites/sprites/player/hurt/player-hurt-2.player-hurt-2 (BGRA8, 33X32 X1X1) (Required Memory Estimate: 0.020142 MB), EncodeSpeed: Fast
+[2022.09.24-03.44.09:008][  0]LogTexture: Display: Building textures: /Game/premadeSprites/sprites/player/hurt/player-hurt-1.player-hurt-1 (BGRA8, 33X32 X1X1) (Required Memory Estimate: 0.020142 MB), EncodeSpeed: Fast
+[2022.09.24-03.44.09:008][  0]LogTexture: Display: Building textures: /Game/premadeSprites/sprites/player/jump/player-jump-1.player-jump-1 (BGRA8, 33X32 X1X1) (Required Memory Estimate: 0.020142 MB), EncodeSpeed: Fast
+[2022.09.24-03.44.09:011][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.09.24-03.44.12:126][  0]LogSlate: Window 'Delete Assets' being destroyed
+[2022.09.24-03.44.27:075][754]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SpriteCharacter" FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/BP_SpriteCharacter.uasset" SILENT=true
+[2022.09.24-03.44.27:081][754]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SpriteCharacter
+[2022.09.24-03.44.27:081][754]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/BP_SpriteCharacter17797FEF420D535B844B158321C7A261.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/BP_SpriteCharacter.uasset'
+[2022.09.24-03.44.27:086][754]LogSavePackage: Moving output files for package: /Game/PlaySprites/player/idle/player-idle-1
+[2022.09.24-03.44.27:086][754]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/player-idle-1F3E34C38478D4C38A0D189BFF821397F.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/PlaySprites/player/idle/player-idle-1.uasset'
+[2022.09.24-03.44.27:097][754]LogSavePackage: Moving output files for package: /Game/PlaySprites/player/idle/player-idle-2
+[2022.09.24-03.44.27:098][754]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/player-idle-2361606AE4EF137CF8779B89BA6FF268A.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/PlaySprites/player/idle/player-idle-2.uasset'
+[2022.09.24-03.44.27:100][754]LogSavePackage: Moving output files for package: /Game/PlaySprites/player/idle/player-idle-3
+[2022.09.24-03.44.27:100][754]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/player-idle-3D6A463244CD714335535DA88866F92DC.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/PlaySprites/player/idle/player-idle-3.uasset'
+[2022.09.24-03.44.27:103][754]LogSavePackage: Moving output files for package: /Game/PlaySprites/player/idle/player-idle-4
+[2022.09.24-03.44.27:104][754]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/player-idle-4B7543C1548479B5AE4F970AF07EB6300.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/PlaySprites/player/idle/player-idle-4.uasset'
+[2022.09.24-03.44.27:106][754]LogSavePackage: Moving output files for package: /Game/PlaySprites/player/idle/player-idle-1_Sprite
+[2022.09.24-03.44.27:106][754]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/player-idle-1_Sprite44B2B9EC4933D22395A22E9AA54D7D85.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/PlaySprites/player/idle/player-idle-1_Sprite.uasset'
+[2022.09.24-03.44.27:107][754]LogSavePackage: Moving output files for package: /Game/PlaySprites/player/idle/player-idle-2_Sprite
+[2022.09.24-03.44.27:107][754]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/player-idle-2_SpriteE50E83C742ADEBF31B3BD79D1FEBFF29.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/PlaySprites/player/idle/player-idle-2_Sprite.uasset'
+[2022.09.24-03.44.27:109][754]LogSavePackage: Moving output files for package: /Game/PlaySprites/player/idle/player-idle-3_Sprite
+[2022.09.24-03.44.27:109][754]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/player-idle-3_SpriteE22E67DB4FDF50573DEF18B32DE4959B.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/PlaySprites/player/idle/player-idle-3_Sprite.uasset'
+[2022.09.24-03.44.27:111][754]LogSavePackage: Moving output files for package: /Game/PlaySprites/player/idle/player-idle-4_Sprite
+[2022.09.24-03.44.27:111][754]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/player-idle-4_Sprite151B053249B2F026B273A08BA20D88D3.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/PlaySprites/player/idle/player-idle-4_Sprite.uasset'
+[2022.09.24-03.44.27:113][754]LogSavePackage: Moving output files for package: /Game/PlaySprites/player/idle/player-idle
+[2022.09.24-03.44.27:113][754]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/player-idle2F7ACFF44CDFB3AC5009DF97B4D444C3.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/PlaySprites/player/idle/player-idle.uasset'
+[2022.09.24-03.44.27:115][754]LogSavePackage: Moving output files for package: /Game/PlaySprites/player/run/player-run-1
+[2022.09.24-03.44.27:115][754]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/player-run-17DEF6EA64994771E785ECAA81BAFBFCF.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/PlaySprites/player/run/player-run-1.uasset'
+[2022.09.24-03.44.27:118][754]LogSavePackage: Moving output files for package: /Game/PlaySprites/player/run/player-run-2
+[2022.09.24-03.44.27:118][754]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/player-run-26BB204F845F3F93FA975A1944D0C6847.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/PlaySprites/player/run/player-run-2.uasset'
+[2022.09.24-03.44.27:121][754]LogSavePackage: Moving output files for package: /Game/PlaySprites/player/run/player-run-3
+[2022.09.24-03.44.27:121][754]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/player-run-39F81CA6F4146EFFEEA8C97ADDD6EAF48.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/PlaySprites/player/run/player-run-3.uasset'
+[2022.09.24-03.44.27:124][754]LogSavePackage: Moving output files for package: /Game/PlaySprites/player/run/player-run-4
+[2022.09.24-03.44.27:124][754]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/player-run-4B2844B5C459BEE927FDF32921E1F2A26.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/PlaySprites/player/run/player-run-4.uasset'
+[2022.09.24-03.44.27:127][754]LogSavePackage: Moving output files for package: /Game/PlaySprites/player/run/player-run-5
+[2022.09.24-03.44.27:127][754]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/player-run-5CCBCC319463E0FB64164C1BE17E72E6C.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/PlaySprites/player/run/player-run-5.uasset'
+[2022.09.24-03.44.27:129][754]LogSavePackage: Moving output files for package: /Game/PlaySprites/player/run/player-run-6
+[2022.09.24-03.44.27:129][754]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/player-run-65D128549421E4382B8D2D7BA7BE0DADC.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/PlaySprites/player/run/player-run-6.uasset'
+[2022.09.24-03.44.27:131][754]LogSavePackage: Moving output files for package: /Game/PlaySprites/player/run/player-run-1_Sprite
+[2022.09.24-03.44.27:131][754]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/player-run-1_Sprite9DB5BF3B4E8B8EA97C61809D4B33CF11.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/PlaySprites/player/run/player-run-1_Sprite.uasset'
+[2022.09.24-03.44.27:133][754]LogSavePackage: Moving output files for package: /Game/PlaySprites/player/run/player-run-2_Sprite
+[2022.09.24-03.44.27:133][754]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/player-run-2_SpriteFD07FD24423A2B584EFE9AA04CBB1B66.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/PlaySprites/player/run/player-run-2_Sprite.uasset'
+[2022.09.24-03.44.27:135][754]LogSavePackage: Moving output files for package: /Game/PlaySprites/player/run/player-run-3_Sprite
+[2022.09.24-03.44.27:135][754]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/player-run-3_SpriteD0B56F97458495125A3E928306F02A68.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/PlaySprites/player/run/player-run-3_Sprite.uasset'
+[2022.09.24-03.44.27:137][754]LogSavePackage: Moving output files for package: /Game/PlaySprites/player/run/player-run-4_Sprite
+[2022.09.24-03.44.27:138][754]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/player-run-4_SpriteF95BB2194145DBA4E04FAE8F1DA184F1.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/PlaySprites/player/run/player-run-4_Sprite.uasset'
+[2022.09.24-03.44.27:139][754]LogSavePackage: Moving output files for package: /Game/PlaySprites/player/run/player-run-5_Sprite
+[2022.09.24-03.44.27:140][754]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/player-run-5_SpriteB60B59054ED319D378F71CAEC6595D91.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/PlaySprites/player/run/player-run-5_Sprite.uasset'
+[2022.09.24-03.44.27:141][754]LogSavePackage: Moving output files for package: /Game/PlaySprites/player/run/player-run-6_Sprite
+[2022.09.24-03.44.27:141][754]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/player-run-6_Sprite607F04A542811DE569D5D1AC4D49F611.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/PlaySprites/player/run/player-run-6_Sprite.uasset'
+[2022.09.24-03.44.27:143][754]LogSavePackage: Moving output files for package: /Game/PlaySprites/player/run/player-run
+[2022.09.24-03.44.27:143][754]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/player-run41696CA849D05756ACB77AADFEF50472.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/PlaySprites/player/run/player-run.uasset'
+[2022.09.24-03.44.27:145][754]LogSavePackage: Moving output files for package: /Game/PlaySprites/player/jump/player-jump-2
+[2022.09.24-03.44.27:145][754]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/player-jump-2739DB3BE4A1B8F622B1B57AB83DB0F70.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/PlaySprites/player/jump/player-jump-2.uasset'
+[2022.09.24-03.44.27:147][754]LogSavePackage: Moving output files for package: /Game/PlaySprites/player/jump/player-jump-2_Sprite
+[2022.09.24-03.44.27:147][754]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/player-jump-2_Sprite905272E24FB45BCA230C0B945B7D6327.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/PlaySprites/player/jump/player-jump-2_Sprite.uasset'
+[2022.09.24-03.44.27:149][754]LogSavePackage: Moving output files for package: /Game/PlaySprites/player/jump/player-jump
+[2022.09.24-03.44.27:149][754]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/player-jumpBE91C820470F2E0175F74895E76ABBC9.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/PlaySprites/player/jump/player-jump.uasset'
+[2022.09.24-03.44.27:151][754]LogSavePackage: Moving output files for package: /Game/PlaySprites/player/jump/player-jump-1
+[2022.09.24-03.44.27:151][754]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/player-jump-1BF81AE374FF76E0933BC54826772B067.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/PlaySprites/player/jump/player-jump-1.uasset'
+[2022.09.24-03.44.27:154][754]LogSavePackage: Moving output files for package: /Game/PlaySprites/player/hurt/player-hurt-1
+[2022.09.24-03.44.27:154][754]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/player-hurt-13D3AD309494F802EB3AB4992C4FE7305.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/PlaySprites/player/hurt/player-hurt-1.uasset'
+[2022.09.24-03.44.27:158][754]LogSavePackage: Moving output files for package: /Game/PlaySprites/player/hurt/player-hurt-2
+[2022.09.24-03.44.27:158][754]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/player-hurt-20293F13B4EBE6F833D598C8367696F20.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/PlaySprites/player/hurt/player-hurt-2.uasset'
+[2022.09.24-03.44.27:161][754]LogSavePackage: Moving output files for package: /Game/PlaySprites/player/crouch/player-crouch-1
+[2022.09.24-03.44.27:161][754]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/player-crouch-127ADFD6E4C519648BA5020AA560E3C0C.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/PlaySprites/player/crouch/player-crouch-1.uasset'
+[2022.09.24-03.44.27:163][754]LogSavePackage: Moving output files for package: /Game/PlaySprites/player/crouch/player-crouch-2
+[2022.09.24-03.44.27:164][754]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/player-crouch-2A42F1E804946EB49F8F49CB6D8D3B392.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/PlaySprites/player/crouch/player-crouch-2.uasset'
+[2022.09.24-03.44.27:166][754]LogSavePackage: Moving output files for package: /Game/PlaySprites/player/climb/player-climb-1
+[2022.09.24-03.44.27:167][754]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/player-climb-135F654B84B94B1A43D6069B8E00D80A7.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/PlaySprites/player/climb/player-climb-1.uasset'
+[2022.09.24-03.44.27:169][754]LogSavePackage: Moving output files for package: /Game/PlaySprites/player/climb/player-climb-2
+[2022.09.24-03.44.27:169][754]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/player-climb-24487833949EA6DA7CD3862987015FBD6.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/PlaySprites/player/climb/player-climb-2.uasset'
+[2022.09.24-03.44.27:173][754]LogSavePackage: Moving output files for package: /Game/PlaySprites/player/climb/player-climb-3
+[2022.09.24-03.44.27:173][754]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/player-climb-33C16A8CC4C64C8F0DB415183F2EDA30D.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/PlaySprites/player/climb/player-climb-3.uasset'
+[2022.09.24-03.44.27:481][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.09.24-03.44.27:504][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.09.24-03.44.27:524][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.09.24-03.44.27:591][754]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.24-03.44.27:591][754]LogContentValidation: Display: Validating Texture2D /Game/PlaySprites/player/idle/player-idle-1.player-idle-1
+[2022.09.24-03.44.27:591][754]LogContentValidation: Display: Validating Texture2D /Game/PlaySprites/player/idle/player-idle-2.player-idle-2
+[2022.09.24-03.44.27:591][754]LogContentValidation: Display: Validating Texture2D /Game/PlaySprites/player/idle/player-idle-3.player-idle-3
+[2022.09.24-03.44.27:591][754]LogContentValidation: Display: Validating Texture2D /Game/PlaySprites/player/idle/player-idle-4.player-idle-4
+[2022.09.24-03.44.27:591][754]LogContentValidation: Display: Validating PaperSprite /Game/PlaySprites/player/idle/player-idle-1_Sprite.player-idle-1_Sprite
+[2022.09.24-03.44.27:592][754]LogContentValidation: Display: Validating PaperSprite /Game/PlaySprites/player/idle/player-idle-2_Sprite.player-idle-2_Sprite
+[2022.09.24-03.44.27:592][754]LogContentValidation: Display: Validating PaperSprite /Game/PlaySprites/player/idle/player-idle-3_Sprite.player-idle-3_Sprite
+[2022.09.24-03.44.27:592][754]LogContentValidation: Display: Validating PaperSprite /Game/PlaySprites/player/idle/player-idle-4_Sprite.player-idle-4_Sprite
+[2022.09.24-03.44.27:592][754]LogContentValidation: Display: Validating PaperFlipbook /Game/PlaySprites/player/idle/player-idle.player-idle
+[2022.09.24-03.44.27:592][754]LogContentValidation: Display: Validating Texture2D /Game/PlaySprites/player/run/player-run-1.player-run-1
+[2022.09.24-03.44.27:592][754]LogContentValidation: Display: Validating Texture2D /Game/PlaySprites/player/run/player-run-2.player-run-2
+[2022.09.24-03.44.27:592][754]LogContentValidation: Display: Validating Texture2D /Game/PlaySprites/player/run/player-run-3.player-run-3
+[2022.09.24-03.44.27:592][754]LogContentValidation: Display: Validating Texture2D /Game/PlaySprites/player/run/player-run-4.player-run-4
+[2022.09.24-03.44.27:592][754]LogContentValidation: Display: Validating Texture2D /Game/PlaySprites/player/run/player-run-5.player-run-5
+[2022.09.24-03.44.27:592][754]LogContentValidation: Display: Validating Texture2D /Game/PlaySprites/player/run/player-run-6.player-run-6
+[2022.09.24-03.44.27:592][754]LogContentValidation: Display: Validating PaperSprite /Game/PlaySprites/player/run/player-run-1_Sprite.player-run-1_Sprite
+[2022.09.24-03.44.27:592][754]LogContentValidation: Display: Validating PaperSprite /Game/PlaySprites/player/run/player-run-2_Sprite.player-run-2_Sprite
+[2022.09.24-03.44.27:592][754]LogContentValidation: Display: Validating PaperSprite /Game/PlaySprites/player/run/player-run-3_Sprite.player-run-3_Sprite
+[2022.09.24-03.44.27:592][754]LogContentValidation: Display: Validating PaperSprite /Game/PlaySprites/player/run/player-run-4_Sprite.player-run-4_Sprite
+[2022.09.24-03.44.27:592][754]LogContentValidation: Display: Validating PaperSprite /Game/PlaySprites/player/run/player-run-5_Sprite.player-run-5_Sprite
+[2022.09.24-03.44.27:592][754]LogContentValidation: Display: Validating PaperSprite /Game/PlaySprites/player/run/player-run-6_Sprite.player-run-6_Sprite
+[2022.09.24-03.44.27:592][754]LogContentValidation: Display: Validating PaperFlipbook /Game/PlaySprites/player/run/player-run.player-run
+[2022.09.24-03.44.27:592][754]LogContentValidation: Display: Validating Texture2D /Game/PlaySprites/player/jump/player-jump-2.player-jump-2
+[2022.09.24-03.44.27:592][754]LogContentValidation: Display: Validating PaperSprite /Game/PlaySprites/player/jump/player-jump-2_Sprite.player-jump-2_Sprite
+[2022.09.24-03.44.27:592][754]LogContentValidation: Display: Validating PaperFlipbook /Game/PlaySprites/player/jump/player-jump.player-jump
+[2022.09.24-03.44.27:592][754]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_SpriteCharacter.BP_SpriteCharacter
+[2022.09.24-03.44.27:592][754]LogContentValidation: Display: Validating Texture2D /Game/PlaySprites/player/jump/player-jump-1.player-jump-1
+[2022.09.24-03.44.27:592][754]LogContentValidation: Display: Validating Texture2D /Game/PlaySprites/player/hurt/player-hurt-1.player-hurt-1
+[2022.09.24-03.44.27:592][754]LogContentValidation: Display: Validating Texture2D /Game/PlaySprites/player/hurt/player-hurt-2.player-hurt-2
+[2022.09.24-03.44.27:592][754]LogContentValidation: Display: Validating Texture2D /Game/PlaySprites/player/crouch/player-crouch-1.player-crouch-1
+[2022.09.24-03.44.27:592][754]LogContentValidation: Display: Validating Texture2D /Game/PlaySprites/player/crouch/player-crouch-2.player-crouch-2
+[2022.09.24-03.44.27:592][754]LogContentValidation: Display: Validating Texture2D /Game/PlaySprites/player/climb/player-climb-1.player-climb-1
+[2022.09.24-03.44.27:592][754]LogContentValidation: Display: Validating Texture2D /Game/PlaySprites/player/climb/player-climb-2.player-climb-2
+[2022.09.24-03.44.27:592][754]LogContentValidation: Display: Validating Texture2D /Game/PlaySprites/player/climb/player-climb-3.player-climb-3
+[2022.09.24-03.45.04:389][ 22]LogContentBrowser: Attempting asset rename: PauseMenu -> UI
+[2022.09.24-03.45.04:409][ 22]LogMetaData: Removing '/Game/UI/PauseMenuWidget.PauseMenuWidget_C' ref from Metadata '/Game/PauseMenu/PauseMenuWidget.PackageMetaData'
+[2022.09.24-03.45.04:409][ 22]LogMetaData: Removing '/Game/UI/PauseMenuWidget.SKEL_PauseMenuWidget_C:BndEvt__PauseMenuWidget_ResumeButton_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/PauseMenu/PauseMenuWidget.PackageMetaData'
+[2022.09.24-03.45.04:409][ 22]LogMetaData: Removing '/Game/UI/PauseMenuWidget.SKEL_PauseMenuWidget_C:BndEvt__PauseMenuWidget_QuitButton_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/PauseMenu/PauseMenuWidget.PackageMetaData'
+[2022.09.24-03.45.04:409][ 22]LogMetaData: Removing '/Game/UI/PauseMenuWidget.SKEL_PauseMenuWidget_C:BndEvt__PauseMenuWidget_ToMainMenuButton_K2Node_ComponentBoundEvent_2_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/PauseMenu/PauseMenuWidget.PackageMetaData'
+[2022.09.24-03.45.04:409][ 22]LogMetaData: Removing '/Game/UI/PauseMenuWidget.SKEL_PauseMenuWidget_C:BndEvt__PauseMenuWidget_ToDesktopButton_K2Node_ComponentBoundEvent_3_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/PauseMenu/PauseMenuWidget.PackageMetaData'
+[2022.09.24-03.45.04:409][ 22]LogMetaData: Removing '/Game/UI/PauseMenuWidget.SKEL_PauseMenuWidget_C:BndEvt__PauseMenuWidget_OptionsButton_K2Node_ComponentBoundEvent_4_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/PauseMenu/PauseMenuWidget.PackageMetaData'
+[2022.09.24-03.45.04:409][ 22]LogMetaData: Removing '/Game/UI/PauseMenuWidget.SKEL_PauseMenuWidget_C' ref from Metadata '/Game/PauseMenu/PauseMenuWidget.PackageMetaData'
+[2022.09.24-03.45.04:428][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_SpriteCharacter" FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/BP_SpriteCharacter.uasset" SILENT=true
+[2022.09.24-03.45.04:434][ 22]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_SpriteCharacter
+[2022.09.24-03.45.04:435][ 22]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/BP_SpriteCharacterE60D9AA844F0CDCA402E51AE4363CAE9.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Blueprints/BP_SpriteCharacter.uasset'
+[2022.09.24-03.45.04:436][ 22]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/PauseMenuWidget" FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/UI/PauseMenuWidget.uasset" SILENT=true
+[2022.09.24-03.45.04:448][ 22]LogSavePackage: Moving output files for package: /Game/UI/PauseMenuWidget
+[2022.09.24-03.45.04:448][ 22]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/PauseMenuWidget460F8A98421EB1E0FF30FA84F85585DE.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/UI/PauseMenuWidget.uasset'
+[2022.09.24-03.45.04:484][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.09.24-03.45.04:506][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.09.24-03.45.04:526][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.09.24-03.45.04:543][ 22]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.24-03.45.04:543][ 22]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/BP_SpriteCharacter.BP_SpriteCharacter
+[2022.09.24-03.45.04:544][ 22]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/PauseMenuWidget.PauseMenuWidget
+[2022.09.24-03.45.21:336][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.09.24-03.45.22:098][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2022.09.24-03.45.26:549][552]LogEditorViewport: Clicking Background
+[2022.09.24-03.45.28:407][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/2dlevel" FILE="../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Maps/2dlevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.24-03.45.28:427][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.09.24-03.45.28:430][768]LogSavePackage: Moving output files for package: /Game/Maps/2dlevel
+[2022.09.24-03.45.28:431][768]LogSavePackage: Moving '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Saved/2dlevel455890D3449287119029568019048368.tmp' to '../../../../../../Users/Malik/Documents/Unreal Projects/Pixel2dGame/Content/Maps/2dlevel.umap'
+[2022.09.24-03.45.28:446][768]AssetCheck: New page: Asset Save: 2dlevel
+[2022.09.24-03.45.28:446][768]LogContentValidation: Display: Validating World /Game/Maps/2dlevel.2dlevel
+[2022.09.24-03.45.29:547][897]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
